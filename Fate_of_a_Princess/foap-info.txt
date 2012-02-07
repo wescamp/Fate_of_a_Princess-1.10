@@ -11,33 +11,31 @@ The portraits of Ghidsaurs: kharakrahs.png (Sceptre_of_Fire)
 
 The image of Alingwen/Ameck (baby) on the story-line: (Heir to the Thrown)
 
-The image of Chief Dessen the Elder: p_baldras.png (Liberty)
+attack icons:
+ 
+- lightfocus.png, scimitar2.png from “Era of Magic” by inferno8 
 
-attack icons: 
-*lightfocus.png, scimitar2.png from “Era of Magic” by inferno8 
+- needle.png from “War of Chaos Era” by Madnessbane
 
-*needle.png from “War of Chaos Era” by Madnessbane
-
-*horn-white.png, horn-glowing.png by Fmunoz
+- horn-white.png, horn-glowing.png by Fmunoz
               
-*sword-astral.png from “Liberty”
+- sword-astral.png from “Liberty”
 
 
 items/images: 
-*the base image of foap-amulet.png is from “Eight of Cembulad” by WYRMY
 
-*ladder.png from “Struggle for Freedom” by WYRMY
+- ladder.png from “Struggle for Freedom” by WYRMY
 
-*the base image of foap-book.png from “The Unstoppable Legion” by Chris NS
+- the base image of foap-book.png from “The Unstoppable Legion” by Chris NS
 
 
 Special weapon (WML): 
-*heavenly fire from Light Focusing of “Era of Magic” by inferno8
+- heavenly fire from Light Focusing of “Era of Magic” by inferno8
       
 
 Unit Informations:
 
-From: War of Chaos Era (by Madnessbane)
+From: War of Chaos Era (by Madnessbane/mindrot)
     
 unit name:         base unit       Modifications(except coding for 1.5/1.6)  
 ---------------------------------------------------------------------------
@@ -46,14 +44,18 @@ Royal Sorceress:    Disfuser       new weapon: staff (arcane), light focus
                                    resistance: add                            
                                              blade=70,pierce=70,impact=60
                                    remove weapon: elvish flame
-                                   hitpoints: 53->60
+                                   hitpoints: 53->62
                                    movement_type: casterfoot->elusivefoot
                                    movement_cost: add forest=1
-                                   experience: 55->120 
+                                   experience: 55->140 
                                    images: color, staff, adding melee-image
                                            (rebuild images)
                                    race: The Elves->elf
                                    usage: archer->mixed fighter
+
+Young Sorceress:   Priestess       created the new unit file 
+
+Child Sorceress:   Acolyte         created the new unit file
 ---------------------------------------------------------------------------
 
 From: Era of Magic (by inferno8)
@@ -71,10 +73,8 @@ Foap Unicorn, Foap Silver Unicorn (by Fmunoz)
 
 Rogue Mage, Shadow Mage, and Shadow Lord: from Liberty
 
-Dwarvish Runesmith: from Scepter of Fire
-
-Elvish Officer (some attack images): from Under the Burning Suns
-
 Drake Alchemist as the base unit: from Legend of Wesmere (before got into the mainline)
+
+Orcish Mages: by thespaceinvader
 
 ===========================================================================
