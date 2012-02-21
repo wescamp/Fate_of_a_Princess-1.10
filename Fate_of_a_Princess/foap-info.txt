@@ -15,7 +15,7 @@ attack icons:
  
 - lightfocus.png, scimitar2.png from “Era of Magic” by inferno8 
 
-- needle.png from “War of Chaos Era” by Madnessbane
+- needle.png from “War of Chaos Era” by Madnessbane/mindrot
 
 - horn-white.png, horn-glowing.png by Fmunoz
               
