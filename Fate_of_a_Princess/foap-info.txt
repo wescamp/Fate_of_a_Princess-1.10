@@ -22,8 +22,6 @@ attack icons:
 
 items/images: 
 
-- ladder.png from “Struggle for Freedom” by WYRMY
-
 - the base image of foap-book.png from “The Unstoppable Legion” by Chris NS
 
 
