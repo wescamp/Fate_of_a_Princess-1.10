@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fate_of_a_Princess 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-08-17 14:39-0400\n"
-"PO-Revision-Date: 2012-08-09 06:40-0800\n"
+"PO-Revision-Date: 2012-08-25 22:48-0800\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -95,7 +95,6 @@ msgstr "1.9.12 "
 
 #. [campaign]: id=Fate_of_a_Princess
 #: Fate_of_a_Princess/_main.cfg:26
-#, fuzzy
 msgid ""
 " or later.\n"
 " \n"
@@ -135,9 +134,8 @@ msgstr "特別出演"
 
 #. [about]
 #: Fate_of_a_Princess/_main.cfg:59
-#, fuzzy
 msgid "French Translation"
-msgstr "ハンガリー語訳"
+msgstr "フランス語訳"
 
 #. [about]
 #: Fate_of_a_Princess/_main.cfg:65
@@ -899,7 +897,7 @@ msgstr "ハッハッ!　付いてるぜ!　もっとこんなことが起こる�
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:317
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:541
 msgid "Death of $foap_sword_picker.name"
-msgstr "グリーンウッド剣を持ったユニットが没"
+msgstr "$foap_sword_picker.nameが没"
 
 #. [message]: id=Ishlars
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:399
@@ -2110,7 +2108,7 @@ msgstr "ミリンディー女王の崩御"
 #. [objectives]
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:219
 msgid "The recruitment list has been reset"
-msgstr "雇用できるユニットが変わりました"
+msgstr ""
 
 #. [message]: id=Ishlars
 #. [message]: speaker=Turuk
@@ -3786,9 +3784,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:156
-#, fuzzy
 msgid "First defeat the Orcish Mage"
-msgstr "オークの魔術師を倒す"
+msgstr "まず、オークの魔術師を倒す"
 
 #. [message]: speaker=Bongasa
 #: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:222
@@ -5580,9 +5577,9 @@ msgstr "古代の謎じゃキ。ワシゃルビーの方が好きじゃがのう
 
 #. [message]: id=Falci_Nyess
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:574
-#, fuzzy
 msgid "Oho! That is hopefully the suitable key that Vladnir wrote about…"
-msgstr "オオッー!　それはヴラディーのノートに書いてあった鍵に違いないキ。"
+msgstr ""
+"オオッー!　それがヴラディーのノート書いとった正しい鍵だと良いんじゃが...。"
 
 #. [message]: id=Falci_Nyess
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:613
@@ -7319,7 +7316,6 @@ msgstr ""
 #. [attack]: type=blade
 #: Fate_of_a_Princess/units/Rogue_Mage.cfg:25
 #: Fate_of_a_Princess/units/Shadow_Mage.cfg:35
-#, fuzzy
 msgid "short sword"
 msgstr "短剣"
 
@@ -8020,6 +8016,9 @@ msgid ""
 "This unit may heal another by up to 2 HP per turn, or cure the effects of "
 "poison."
 msgstr ""
+"回復 +2:\n"
+"このユニットは、ターンごとに他のユニットを2HPずつ回復させます。また、解毒効果"
+"も持ち合わせています。"
 
 #. [unit_type]: id=Fugitive Cavalier, race=human
 #: Fate_of_a_Princess/units/heroes/Fugitive_Cavalier.cfg:4
@@ -8776,6 +8775,13 @@ msgstr "雷撃棒"
 #: Fate_of_a_Princess/utils/FoaP-side.cfg:12
 msgid "Baldres"
 msgstr "バルドレス"
+
+#~ msgid ""
+#~ "The recruitment list has been reset\n"
+#~ "Hint: - better to avoid marching the troops to the south"
+#~ msgstr ""
+#~ "雇用できるユニットが変わりました\n"
+#~ "ヒント: 南へ進軍するのは、避けた方が良いでしょう"
 
 #~ msgid "magic missile"
 #~ msgstr "マジックミサイル"
