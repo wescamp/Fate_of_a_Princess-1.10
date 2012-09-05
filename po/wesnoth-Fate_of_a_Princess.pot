@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-17 14:39-0400\n"
+"POT-Creation-Date: 2012-09-04 21:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -246,22 +246,22 @@ msgid "Defeat the enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:146 ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:142 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:124 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:297 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:90 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:315 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:124 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:292 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:171 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:155 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:196 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:288
+#: ./Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:146 ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:143 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:124 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:297 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:90 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:315 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:124 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:292 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:171 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:155 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:197 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:333
 msgid "Death of Baldres"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:150 ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:146 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:128 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:301 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:94 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:319 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:128 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:296 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:175 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:159 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:200 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:208 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:292 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:181
+#: ./Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:150 ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:147 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:128 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:301 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:94 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:319 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:128 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:296 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:175 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:159 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:201 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:228 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:337 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:186
 msgid "Death of Jil"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:154 ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:150 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:132 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:305 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:98 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:323 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:132 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:300 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:179 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:163 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:204 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:212 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:296
+#: ./Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:154 ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:151 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:132 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:305 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:98 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:323 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:132 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:300 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:179 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:163 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:205 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:232 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:341
 msgid "Death of Ishlars"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:158 ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:158 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:140 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:313 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:107 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:332 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:140 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:308 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:188 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:172 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:213 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:216 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:300 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:189 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:434 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:696 ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:76 ./Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:176 ./Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:520 ./Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:172 ./Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:463 ./Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:139 ./Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:329 ./Fate_of_a_Princess/utils/FoaP-scenarios.cfg:126 ./Fate_of_a_Princess/utils/FoaP-scenarios.cfg:153 ./Fate_of_a_Princess/utils/FoaP-scenarios.cfg:184 ./Fate_of_a_Princess/utils/FoaP-scenarios.cfg:211
+#: ./Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:158 ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:159 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:140 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:313 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:107 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:332 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:140 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:308 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:188 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:172 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:214 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:236 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:345 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:194 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:448 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:696 ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:76 ./Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:176 ./Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:520 ./Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:172 ./Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:463 ./Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:139 ./Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:329 ./Fate_of_a_Princess/utils/FoaP-scenarios.cfg:126 ./Fate_of_a_Princess/utils/FoaP-scenarios.cfg:153 ./Fate_of_a_Princess/utils/FoaP-scenarios.cfg:184 ./Fate_of_a_Princess/utils/FoaP-scenarios.cfg:211
 msgid "Turns run out"
 msgstr ""
 
@@ -436,98 +436,98 @@ msgid "Colonel Linx"
 msgstr ""
 
 #. [side]
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:88
-msgid "Monster"
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:88 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:57
+msgid "Monsters"
 msgstr ""
 
 #. [message]: id=Straker
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:113
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:114
 msgid "You are under arrest! I am General Straker. Baron Baldres, it’s time for you to answer for your crimes! Don’t think you can escape into the northern lands; the border guards are ready for you!"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:117
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:118
 msgid "I’ve fought those border guards before. Their skulls are hard to split."
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:121
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:122
 msgid "We’ll have to beat them to cross the Great River. We can do it. We must!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:125
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:126
 msgid "Bah. The old general’s getting careless. I could fit an army through the openings he’s left me. Watch."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:129
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:130
 msgid "To use the cannon’s long-range attack, right-click on an enemy within three hexes of the cannon, then select <b>Use long-range cannon attack against this unit</b> from the menu."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:138
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:139
 msgid "Move both caravans over the Great River"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:154 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:136 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:309 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:103 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:328 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:136 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:304 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:184 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:168 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:209
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:155 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:136 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:309 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:103 ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:328 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:136 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:304 ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:184 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:168 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:210
 msgid "Destruction of a caravan"
 msgstr ""
 
 #. [unit]: type=Foap Caravan, id=Caravan 1
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:188
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:189
 msgid "Treasure Caravan"
 msgstr ""
 
 #. [unit]: type=Foap Caravan, id=Caravan 2
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:200
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:201
 msgid "Supply Caravan"
 msgstr ""
 
 #. [unit]: type=Cannon, id=Cannon
 #. [unit_type]: id=Cannon, race=mechanical
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:212 ./Fate_of_a_Princess/units/Cannon.cfg:5
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:213 ./Fate_of_a_Princess/units/Cannon.cfg:5
 msgid "Cannon"
 msgstr ""
 
 #. [unit]: type=Horseman, id=Siddry
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:224
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:225
 msgid "Siddry"
 msgstr ""
 
 #. [unit]: type=Dragoon, id=Convan
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:234
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:235
 msgid "Convan"
 msgstr ""
 
 #. [message]: id=Linx
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:345
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:346
 msgid "Uh-Oh! A Monster Snake!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:349
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:350
 msgid "Ooh! We may be able to take advantage its appearance to pass through here."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:370
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:371
 msgid "Aaack! I regret to report… I am no longer… fit for duty…"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:380
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:381
 msgid "Aaack! Baldres…! You … cannot … escape forever."
 msgstr ""
 
 #. [message]: speaker=Baldres
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:406
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:407
 msgid "Farewell, Wesnoth, and thank you for your generosity! Now to set out for our new home, wherever that may be. With this fortune, we could ride for a thousand miles!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:426
+#: ./Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:427
 msgid "We are too late! We’ve been cut off from the border."
 msgstr ""
 
@@ -548,7 +548,7 @@ msgstr ""
 #. [side]: type=Elvish Lord, id=Zluld
 #. [side]: type=Elvish Marshal, id=Marshal
 #. [side]: type=Elvish Royal, id=Eameral
-#: ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:45 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:47 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:70 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:193 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:233 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:77 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:37 ./Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:33 ./Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:49 ./Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:39 ./Fate_of_a_Princess/scenarios/26_Epilogue.cfg:37 ./Fate_of_a_Princess/utils/FoaP-side.cfg:28
+#: ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:45 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:47 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:75 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:222 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:278 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:80 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:37 ./Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:33 ./Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:49 ./Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:39 ./Fate_of_a_Princess/scenarios/26_Epilogue.cfg:37 ./Fate_of_a_Princess/utils/FoaP-side.cfg:28
 msgid "Elves"
 msgstr ""
 
@@ -675,7 +675,7 @@ msgid "Oh, that’s its name today, is it?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:537 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:484 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:730
+#: ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:537 ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:484 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:734
 msgid "We’ve spent too long fighting! It’s over."
 msgstr ""
 
@@ -698,11 +698,6 @@ msgstr ""
 #. [unit]: type=Foap Silver Unicorn, id=Takel
 #: ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:42 ./Fate_of_a_Princess/scenarios/19_Eisheim.cfg:258
 msgid "Täkel"
-msgstr ""
-
-#. [side]
-#: ./Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:57
-msgid "Monsters"
 msgstr ""
 
 #. [message]: id=Baldres
@@ -890,7 +885,7 @@ msgstr ""
 
 #. [message]: id=Fioniel
 #. [message]: id=Melinde
-#: ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:351 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:603
+#: ./Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:351 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:702
 msgid "Eeek!"
 msgstr ""
 
@@ -1013,7 +1008,7 @@ msgid "Slixxik will not attack as long as he is not disturbed."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:167 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:192 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:422 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:680 ./Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:119 ./Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:123 ./Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:115 ./Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:241 ./Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:313 ./Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:228 ./Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:175
+#: ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:167 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:193 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:436 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:680 ./Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:119 ./Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:123 ./Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:115 ./Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:241 ./Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:313 ./Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:228 ./Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:175
 msgid "Defeat all enemy leaders"
 msgstr ""
 
@@ -1073,7 +1068,7 @@ msgid "Oh, no! Now it is too late! The goblins hass recognized the humanss! Ance
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:445 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:922 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:639
+#: ./Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:445 ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:922 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:643
 msgid "Tsss-URK!! … Mark my words… the Fate Spiritss are moving… Doom awakess–"
 msgstr ""
 
@@ -1107,7 +1102,7 @@ msgstr ""
 #. [side]: type=Foap Hydra, id=Jata
 #. [side]: type=Naga Myrmidon, id=Milaxilis
 #. [side]: type=Water Serpent, id=Bata
-#: ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:119 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:53 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:89 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:109
+#: ./Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:119 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:53 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:104 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:124
 msgid "Snakes"
 msgstr ""
 
@@ -1266,13 +1261,13 @@ msgstr ""
 
 #. [side]
 #. [side]: type=Saurian Flanker, id=Xizzyx
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:57 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:275 ./Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:52
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:57 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:320 ./Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:52
 msgid "Saurians"
 msgstr ""
 
 #. [side]: type=Saurian Flanker, id=Xizzyx
 #. [unit]: type=Saurian Flanker, id=Xizzyx
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:60 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:383 ./Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:51 ./Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:501
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:60 ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:428 ./Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:51 ./Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:501
 msgid "Xizzyx"
 msgstr ""
 
@@ -1283,112 +1278,112 @@ msgstr ""
 #. [side]: type=Orcish Warlord, id=Gragaar the Mighty
 #. [side]: type=Orcish Warlord, id=Vrodash
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:81 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:132 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:154 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:95 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:122 ./Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:75 ./Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:320
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:82 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:133 ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:155 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:98 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:126 ./Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:75 ./Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:320
 msgid "Orcs"
 msgstr ""
 
 #. [side]: type=Orcish Ruler, id=Raknaglash
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:83
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:84
 msgid "Raknaglash"
 msgstr ""
 
 #. [side]: type=Orcish Slurbow, id=Harik Whitefang
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:134
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:135
 msgid "Harik Whitefang"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Gragaar the Mighty
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:156
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:157
 msgid "Gragaar the Mighty"
 msgstr ""
 
 #. [message]: speaker=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:176
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:177
 msgid "Finally, a chance at a city of my own, and no meddling monarch to bow to. These poor primitives will not trouble us! To arms! My– Our city lies before us!"
 msgstr ""
 
 #. [message]: speaker=Jil
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:180
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:181
 msgid "Time to crack some orc-heads!"
 msgstr ""
 
 #. [message]: id=Slixxik
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:184
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:185
 msgid "Poor foolss, doom follows you sstill."
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:286
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:287
 msgid "This may be our last battle, Jil. Supplies are running very low. What food will we find in the city?"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:290
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:291
 msgid "My Lord, orcs will eat anything but troll. I wouldn’t touch any supplies inside that city until we know where they are from."
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:297
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:298
 msgid "This is a harder battle than I expected. I’ve never known these savages to be such determined fighters."
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:309
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:310
 msgid "My Lord! Ishlars’ Doom is now fully completed! It has not been tested, but may I try it? I think we can give the orc leader a jolt he won’t forget."
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:313
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:314
 msgid "Very well. Having dragged that cannon for eight score leagues and ten… Go ahead."
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:317
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:318
 msgid "Fire!"
 msgstr ""
 
 #. [unstore_unit]
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:354
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:355
 msgid "30"
 msgstr ""
 
 #. [message]: id=Raknaglash
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:366
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:367
 msgid "Gwah! What devilry is this?"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:370
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:371
 msgid "That is… satisfactory, Ishlars. Fire it again."
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:374
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:375
 msgid "Yes, my Lord! Fire!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:495
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:496
 msgid "Oh dear, a setback. Perhaps the weapon’s name was somehow at fault?"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:499
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:500
 msgid "Please forgive me, my Lord. I did think the cannon would be strong enough!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:503
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:504
 msgid "Ishlars, old friend. That… provocation will have put the orcs into a slaying frenzy. Now we will not be able to retreat. I promise, if we lose this day I’ll throw you to the orcs before I meet my own death. They can be most… creative, when roused."
 msgstr ""
 
 #. [message]: speaker=Xizzyx
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:524
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:525
 msgid "Tcchht! Heard ssounds of battle! Ah, humanss! If you are fighting orcss, let me join in!"
 msgstr ""
 
 #. [message]: speaker=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:528
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:529
 msgid ""
 "…\n"
 "\n"
@@ -1396,41 +1391,41 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Slixxik
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:607
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:611
 msgid "Thankss for helping! Perhapss you sslow the doom a little…"
 msgstr ""
 
 #. [message]: id=Xizzyx
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:611
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:615
 msgid ""
 "…\n"
 "Orcs’ doom iss speeded up! That is good, yess?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:649
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:653
 msgid "Aaargh! Curse you, humans! Other orcs will come! We will take this place back!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:657
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:661
 msgid "We’ll be ready and waiting, believe me."
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:661
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:665
 msgid ""
 "Phew! We can rest at last! And sleep in a bed again… under a roof!\n"
 "… Ahhh!"
 msgstr ""
 
 #. [message]: speaker=Baldres
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:681
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:685
 msgid "Oh, Ishlars, I want a case for that beautiful sword we found. See to it, will you? I think I’d like it on display in my chambers…"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:685
+#: ./Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:689
 msgid "Yes, ‘sir’!"
 msgstr ""
 
@@ -1462,74 +1457,76 @@ msgid "Melindë"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:176
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:196
 msgid "Of all his schemes, this is the maddest ever. Abducting an elvish queen? Don’t you think he is getting more selfish than he used to be, Ishlars?"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:180
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:200
 msgid "I opposed it, too, Jil. But he really would have killed me if I’d argued further. It will be his undoing, and probably ours too. But when he really wants a woman, there is nothing that can dissuade him. That has been true all the time I have known him. I have grave doubts too as to what will happen after we catch her. I think the Greenwood elves are stronger than our Dorest forces."
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:184
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:204
 msgid "So, we’ll have to make sure none of their scouts escape to call for reinforcements, eh?"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:188
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:208
 msgid "Yes, or you and I will meet next in the halls of the dead!"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:196
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:216
 msgid "Move both Jil and Ishlars adjacent to the Queen"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:200
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:220
 msgid "Allow any enemy scout to reach the top of the map"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:204
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:224
 msgid "Death of Queen Melindë"
 msgstr ""
 
 #. [objectives]
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:219
-msgid "The recruitment list has been reset"
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:239
+msgid ""
+"The recruitment list has been reset\n"
+"Hint: - better to avoid marching the troops to the south"
 msgstr ""
 
 #. [message]: id=Ishlars
 #. [message]: speaker=Turuk
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:442 ./Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:172
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:542 ./Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:172
 msgid "Here they come!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:542
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:642
 msgid "To Elengavion! The lord shall hear of this!"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:550
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:649
 msgid "Well, we’re in trouble now. Even sooner than I expected."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:565
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:664
 msgid "You… were… <i>assassins</i>…?"
 msgstr ""
 
 #. [message]: id=Calil-Gandir
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:578 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:616
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:677 ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:715
 msgid "Oh, no! I am utterly disgraced! I have failed my duty to the Queen!"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:607
+#: ./Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:706
 msgid "Now I can add procurer to my list of crimes. You’re coming with me!"
 msgstr ""
 
@@ -1544,172 +1541,172 @@ msgid "It did not take long for news of this outrage to reach the elves of Rowan
 msgstr ""
 
 #. [side]: type=Elvish High Lord, id=Elvanadion
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:73
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:78
 msgid "Elvanadíon"
 msgstr ""
 
 #. [side]: type=Elvish Lord, id=Zluld
 #. [unit]: type=Elvish Lord, id=Zluld
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:196 ./Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:43 ./Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:275
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:225 ./Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:43 ./Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:275
 msgid "Zluld"
 msgstr ""
 
 #. [side]: type=Elvish Champion, id=Elen-Garil
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:236 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:80 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:35
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:281 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:83 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:35
 msgid "Elen-Garil"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:284 ./Fate_of_a_Princess/scenarios/19_Eisheim.cfg:82
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:329 ./Fate_of_a_Princess/scenarios/19_Eisheim.cfg:82
 msgid "Survive"
 msgstr ""
 
 #. [message]: id=Elvanadion
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:363
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:408
 msgid "<b>Humans, you have one chance to stay my bloody vengeance! I am Elvanadíon, High Lord of all the Greenwood elves! Return Melindë safely to me, with the scum Baldres in chains, or my wrath will fall upon you!</b>"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:367
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:412
 msgid "O, noble elf, surely you jest! Why should I give you the best slave I’ve ever had?"
 msgstr ""
 
 #. [message]: id=Elvanadion
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:371
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:416
 msgid "<b>Rah! When you are brought before me I will burn your eyes from your head!!</b>"
 msgstr ""
 
 #. [unit]: type=Saurian Oracle, id=Jezzix
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:408
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:453
 msgid "Jezzix"
 msgstr ""
 
 #. [message]: id=Xizzyx
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:416
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:461
 msgid "Kyeee… I thought humans were battling orcss, but look! They are fighting the Greenwood elvess."
 msgstr ""
 
 #. [message]: id=Slixxik
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:425
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:470
 msgid "Yess, look at the main elven keep! That iss High Lord Elvanadíon. He leadss the elves himssself. Thiss… is not ordinary battle, I think."
 msgstr ""
 
 #. [message]: id=Xizzyx
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:429
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:474
 msgid "Let uss go, Slixxik. Thiss battle not for ssaurianss. None of our bussiness iss here, yess?"
 msgstr ""
 
 #. [message]: id=Slixxik
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:434
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:479
 msgid "Sss. Yess, none. We go!"
 msgstr ""
 
 #. [message]: id=Jezzix
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:443
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:488
 msgid "Yess, look at main elven keep! That iss High Lord Elvanadíon. He leadss the elves himssself. Thiss… is not ordinary battle, I think."
 msgstr ""
 
 #. [message]: id=Xizzyx
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:447
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:492
 msgid "Let uss go, Jezzix. Thiss battle not for ssaurianss. No orcss here to fight, yess?"
 msgstr ""
 
 #. [message]: id=Jezzix
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:452
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:497
 msgid "Sss. None I can ssee, ssertainly. We go!"
 msgstr ""
 
 #. [unit]: type=Gryphon Magerider, id=Gulcyn
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:478
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:523
 msgid "Gulcyn the Wizard"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:505
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:550
 msgid "Ah, oh! Gulcyn the Wizard, riding a gryphon. How vexing; I can only ride a horse."
 msgstr ""
 
 #. [message]: id=Gulcyn
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:512
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:557
 msgid "Your majesty, grab his leg! We will bear you away!"
 msgstr ""
 
 #. [unit]: type=Elvish Queen, id=Melinde
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:527
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:572
 msgid "Queen Melindë"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:537
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:582
 msgid "My beautiful slave! Bring her back, you meddler!"
 msgstr ""
 
 #. [message]: id=Gulcyn
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:541
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:586
 msgid "Your punishment begins now, Baldres. You have showed no mercy, so none shall you receive!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:637
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:682
 msgid "Aah! My h-head! What is… happening…?"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:641
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:686
 msgid "My Lord?"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:648
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:693
 msgid "… I… don’t… know… you… I… will… kill… you…"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:652
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:697
 msgid ""
 "Oh, no! That is Gulcyn’s power of Domination! I’m in trouble!\n"
 "My Lord! Wake up! We should kill Gulcyn the Wizard and those elves! Not me! Please, not me!"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:670
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:715
 msgid ""
 "Oh – now Gulcyn’s escaped with that confounded teleport!\n"
 "No, no, no… Lord! Baldres!"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:687
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:732
 msgid "Aargh…!"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:699
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:744
 msgid "You… murdered Ishlars, you treacherous thug! Who’s next?! Me?!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:713
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:758
 msgid "Aack! … <small>Gulcyn…</small>"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:725
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:770
 msgid "I sometimes wondered if it might be my hand that killed you, one day. I never thought you’d butcher Ishlars first, though, curse you."
 msgstr ""
 
 #. [message]: id=Elvanadion
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:734
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:779
 msgid "… Most honored sage! I am indebted to you forever! I no longer seek revenge, merely to get poor Melindë safely home to the Greenwood as quickly as I can."
 msgstr ""
 
 #. [message]: id=Gulcyn
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:738
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:783
 msgid "I can help you with that, my Lord; I have already seen to it that citizens of Dorest will not disturb you for a while. You can depart in safety. I have some more healing work to attend to, but after that I will return as soon as I can."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:759
+#: ./Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:804
 msgid "So it was that Queen Melindë was rescued with the help of Gulcyn the wizard, but by then the queen had already conceived Baldres’ daughter."
 msgstr ""
 
@@ -1730,182 +1727,182 @@ msgid "Dessen"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Vrodash
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:98
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:101
 msgid "Vrodash"
 msgstr ""
 
 #. [side]: type=Orcish Slurbow, id=Prirbag
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:125
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:129
 msgid "Prirbag"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:148
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:153
 msgid "Damn elves are back to the fray already. Hoy, Dessen. Bring me that elf’s head, and you’ll get a pouch of gold for it."
 msgstr ""
 
 #. [message]: id=Dessen
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:152
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:157
 msgid "Jil… Before the fighting starts again, we have a brief chance to talk to them. With Baldres dead, there is some faint hope we could buy a peace, if we made a few concessions…"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:157
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:162
 msgid "Are you soft in the head? Should I just hand myself over to them, and say ‘Oops, la, pardon! So sorry for the trouble?’ That’s the concession they seek! The story we’re using is, ‘We must avenge my Lord Baldres and poor, wise Ishlars the Mage,’ and you’d <i>better</i> stick with it."
 msgstr ""
 
 #. [message]: id=Dessen
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:161
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:166
 msgid "Ah… I had heard tell that Lord Baldres killed Ishlars, and you killed Baldres…"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:165
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:170
 msgid ""
 "Eh, him or me. I chose him. I’ll choose you, if you ‘forget’ again who is Protector of Dorest.\n"
 "No, I’ve changed my mind. I’ll bag that elf myself. He’s said to be their master-at-arms. You clear a path so I can reach him, and I’ll spike him four feet through the chest!"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:177
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:182
 msgid "Move Jil onto the bridge"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:185 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:426
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:190 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:440
 msgid "Death of Dessen"
 msgstr ""
 
 #. [objectives]
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:192
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:197
 msgid "Hint: Blocking elves to across the river"
 msgstr ""
 
 #. [attack]: type=blade
 #. [effect]: type=blade
 #. [object]: id=orichalcum_foil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:270 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:280 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:734 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:743 ./Fate_of_a_Princess/units/heroes/Elvish_Colonel.cfg:64 ./Fate_of_a_Princess/units/heroes/Elvish_Commandant.cfg:49 ./Fate_of_a_Princess/units/heroes/Elvish_Lieutenant.cfg:46 ./Fate_of_a_Princess/units/heroes/Elvish_Major.cfg:61
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:275 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:285 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:734 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:743 ./Fate_of_a_Princess/units/heroes/Elvish_Colonel.cfg:64 ./Fate_of_a_Princess/units/heroes/Elvish_Commandant.cfg:49 ./Fate_of_a_Princess/units/heroes/Elvish_Lieutenant.cfg:46 ./Fate_of_a_Princess/units/heroes/Elvish_Major.cfg:61
 msgid "orichalcum foil"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:313
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:318
 msgid "Time to skewer me an elf!"
 msgstr ""
 
 #. [message]: id=Jil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:347
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:352
 msgid "What the…? It’s a damned orcish ambush! DESSEN!"
 msgstr ""
 
 #. [message]: id=Dessen
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:356
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:361
 msgid "Noooo! Jil!"
 msgstr ""
 
 #. [message]: id=Vrodash
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:375
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:380
 msgid "Gwahaha! Well done! That was one of their senior commanders when they captured Dorest. Now let’s take back the city!"
 msgstr ""
 
 #. [message]: id=Prirbag
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:379
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:384
 msgid "Hoy, Vrodash! There’s one o’ them Greenwood fops! Let’s kill him too!"
 msgstr ""
 
 #. [message]: id=Elen-Garil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:383
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:388
 msgid "Oh, rot and ruination. Orcs again. (<i>Sigh</i>)"
 msgstr ""
 
 #. [message]: id=Dessen
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:387
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:392
 msgid ""
 "(<i><small>Perhaps a chance to start patching things up with the elves… If I can only find the right pitch.</small></i>)\n"
 "Elvish swordsman, with Jil dead, the last of the criminals against whom your charges were laid is no more. But if orcs ever return to Dorest, your old troubles in the Greenwood will return in full force. We do not have the power to resist them. If you will not assist us, Dorest will surrender."
 msgstr ""
 
 #. [message]: id=Elen-Garil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:392
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:397
 msgid "Well, then, on behalf of the Greenwood elves, I accept–"
 msgstr ""
 
 #. [message]: id=Dessen
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:396
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:401
 msgid "No, sir, <i>to the orcs</i>."
 msgstr ""
 
 #. [message]: id=Elen-Garil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:400
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:405
 msgid "<i>What?!</i> But I– You–"
 msgstr ""
 
 #. [message]: id=Dessen
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:404
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:409
 msgid ""
 "We cannot resist them and you both.\n"
 "But if you will assist us against the orcs, we will grant you what concessions we can, and in defending our new homes, the orcs’ anger will fall on us – mostly – and not the Greenwood elves."
 msgstr ""
 
 #. [message]: id=Elen-Garil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:409
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:414
 msgid "I… see. You use your own surrender as a weapon against us. Remarkable. I must convey these terms to my Lord and master – but, of course, that means I must live to do so. You have your truce – <i>for now</i> – impudent human. Afterwards – we shall see."
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:430 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:684
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:444 ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:684
 msgid "Death of Elen-Garil"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:460
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:474
 msgid "I’m not moving there. Jil would trample me without even slowing down!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:493
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:507
 msgid "Agh! I could have made a great city…"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:506
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:520
 msgid "Now I… cannot… complete… my… duty…"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:519
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:533
 msgid "Aargh…"
 msgstr ""
 
 #. [message]: id=Elen-Garil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:535 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:606
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:549 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:620
 msgid "I warn you, sir, my masters may yet wholly reject this… outlandish offer of yours, but I at least see that it could work… perhaps."
 msgstr ""
 
 #. [message]: id=Dessen
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:545 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:616
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:559 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:630
 msgid "Perhaps I can make a further gesture of our good faith. We stumbled across this beautiful sword on our journey north, and Baldres kept it as a trophy. A unicorn had stolen it, I gather. Here: I will take this chance to return it to its true owners."
 msgstr ""
 
 #. [message]: id=Elen-Garil
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:550 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:621
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:564 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:635
 msgid ""
 "The Greenwood Blade? My word… Yes, Lord Zluld said a unicorn had stolen it from him. That was a few years ago, too…\n"
 "It would have been a powerful weapon against us, had you chosen to retain it. Thank you. I will return it to him."
 msgstr ""
 
 #. [message]: id=Dessen
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:557 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:628
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:571 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:642
 msgid "Thank you."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:563 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:634
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:577 ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:648
 msgid "As a result of Dessen’s quick thinking and audacity, humans and northlands elves fought side by side for the first time ever. In consequence, the elves had a chance to see that humans might – eventually – prove better neighbors than the orcs they had displaced."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:590
+#: ./Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:604
 msgid "Grr-ack…!"
 msgstr ""
 
@@ -3033,7 +3030,7 @@ msgstr ""
 #. [side]: type=Troll Shaman, id=Rok
 #. [side]: type=Troll Shaman, id=Troll Shaman
 #. [side]: type=Troll Warrior, id=Troll Warrior
-#: ./Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:60 ./Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:80 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:133 ./Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:70 ./Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:90
+#: ./Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:60 ./Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:80 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:148 ./Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:70 ./Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:90
 msgid "Trolls"
 msgstr ""
 
@@ -3183,194 +3180,194 @@ msgid "Apakura"
 msgstr ""
 
 #. [side]: type=Foap Hydra, id=Jata
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:86
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:101
 msgid "Jata"
 msgstr ""
 
 #. [side]: type=Naga Myrmidon, id=Milaxilis
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:106
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:121
 msgid "Milaxilis"
 msgstr ""
 
 #. [side]: type=Troll Shaman, id=Rok
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:126
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:141
 msgid "Rok"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:161
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:176
 msgid "Move Háwclyn to the exit"
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:257
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:254
 msgid "This damp lair is tha’ shortest route tae Eisheim. Unfortunately there are monsters living here now. My brave friend tried to drive them out in weeks ago, but he has been missing since then. We should try tae avoid them as far as we can."
 msgstr ""
 
 #. [message]: id=Hawclyn
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:261
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:258
 msgid "If we must fight, then so be it, but I would be glad to pass through peacefully. I must say, this place must become a torrent when the rains come."
 msgstr ""
 
 #. [message]: id=Shoko
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:265
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:262
 msgid "Oh yes, snow-melt collects in this cavern. In spring the sound of the waterfalls can be heard two leagues away. Last winter, some nagas followed the river up from the foothills and decided they liked it here, but the trolls are not at all happy to be sharing their cave."
 msgstr ""
 
 #. [message]: id=Zylvia
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:269
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:266
 msgid "We should hurry. We are running out of time to return home."
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:308 ./Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:921
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:305 ./Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:921
 msgid "A chest of gold! That’s a stroke o’ fortune!"
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:343
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:340
 msgid "Gold! That’s a stroke o’ good luck!"
 msgstr ""
 
 #. [object]: id=bow-crystal
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:363
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:360
 msgid "Crystal Bow"
 msgstr ""
 
 #. [object]: id=bow-crystal
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:364
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:361
 msgid "Crystal Bows are extraordinary magical weapons made long ago by a dwarven stonecrafter, and given as gifts to the elves of the Silent Forest. The arrows they fire become imbued with faerie essence, and those injured by them are suddenly overcome with a strange weakness. The weakness passes after a while, but while it remains it is a deadly handicap in combat."
 msgstr ""
 
 #. [object]: id=bow-crystal
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:375
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:372
 msgid "This is a very heavy bow. A powerful archer could use it, but I, alas, cannot."
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:386
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:383
 msgid "Oh, that is a Crystal Bow! Those were a famous gift to the elves, made by my people many centuries ago! Shoko’s real father had one. He was Captain of the Gray Wardens of the Silent Forest. Check it! It may have an inscription."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:390
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:387
 msgid ""
 "We are finally able to have a daughter. We have named her Sioclya. Thanks be to Eloh.\n"
 "11th day of the new year, 212YW. <i>Hirandel me scripsit</i>"
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:396
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:393
 msgid "Anoint mae beard! That bow belonged tae Shoko’s real father! That is amazing! Shoko’s birth name was Sioclya, but in dwarf-runes that becomes ‘Shoko’, ‘lovely gem’. She is lovely, isn’t she?"
 msgstr ""
 
 #. [message]: id=Shoko
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:400
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:397
 msgid "I have always thought of you as my real father, Turuk. I care not if that sounds foolish."
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:404
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:401
 msgid "Bless ye, lass. Bless ye."
 msgstr ""
 
 #. [effect]: type=pierce
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:417 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:432
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:414 ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:429
 msgid "crystal bow"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:472
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:462
 msgid "The magical rune on the encampment will change a unit’s alignment to <i>chaotic</i>."
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:477
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:467
 msgid "A chaos rune! Ye ken, I have heard that trolls are sometimes born as lawful creatures, fearing the night an’ unafraid tae move by day. Troll shamans use a special ritual to set them aright."
 msgstr ""
 
 #. [message]: id=Shoko
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:481
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:471
 msgid "I have heard that trolls are not actually born. One troll buds off another smaller troll, which then grows on its own."
 msgstr ""
 
 #. [message]: id=Zylvia
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:485
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:475
 msgid "Then, there are no troll women? That’s extraordinary!"
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:489
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:479
 msgid "I wonder if that magic rune might work on one o’ my followers?"
 msgstr ""
 
 #. [message]: speaker=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:525
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:509
 msgid "Ancestors’ beards, it worked!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:554
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:538
 msgid "Only innately magical races, such as trolls or drakes, can use these runes."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:568
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:552
 msgid "Farewell, father… Now I will see Mama again…"
 msgstr ""
 
 #. [message]: speaker=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:572
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:556
 msgid "Shoko! This parting breaks my heart."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:585
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:569
 msgid "<big>Graaa!</big>"
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:593
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:577
 msgid "Look! There is something behind him."
 msgstr ""
 
 #. [unit]: type=Dwarvish Fighter, id=Cholas
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:603
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:587
 msgid "Cholas"
 msgstr ""
 
 #. [message]: id=Cholas
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:623
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:607
 msgid "Phew! Thank you, Warden, thank you! I thought I’d ne’er get oot."
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:627
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:611
 msgid "I didnae think I’d see you again, Cholas. I am proud of you! Follow me and fight again, an’ we’ll broach a cask later, tae celebrate your return!"
 msgstr ""
 
 #. [message]: id=Cholas
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:634
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:618
 msgid "My pleasure, sir!"
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:657
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:641
 msgid "Northwards! We cannae rest yet, there may be more monsters tae slay!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:674
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:658
 msgid "<big>GRAAA!</big>"
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:682
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:666
 msgid "Keep moving, keep moving!"
 msgstr ""
 
 #. [message]: id=Turuk
-#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:702
+#: ./Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:686
 msgid "Move on! We cannae tarry here! More monsters may come!"
 msgstr ""
 
