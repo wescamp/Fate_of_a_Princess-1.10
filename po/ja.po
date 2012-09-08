@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fate_of_a_Princess 1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 21:00-0400\n"
+"POT-Creation-Date: 2012-09-08 19:14-0400\n"
 "PO-Revision-Date: 2012-08-25 22:48-0800\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
@@ -328,9 +328,9 @@ msgstr "敵のリーダーを倒す"
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:124
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:292
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:171
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:155
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:197
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:333
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:157
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:202
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:342
 msgid "Death of Baldres"
 msgstr "バルドレスが没"
 
@@ -344,10 +344,10 @@ msgstr "バルドレスが没"
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:128
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:296
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:175
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:159
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:201
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:161
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:206
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:228
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:337
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:346
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:186
 msgid "Death of Jil"
 msgstr "ジルが没"
@@ -362,10 +362,10 @@ msgstr "ジルが没"
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:132
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:300
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:179
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:163
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:205
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:165
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:210
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:232
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:341
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:350
 msgid "Death of Ishlars"
 msgstr "イシュラーズが没"
 
@@ -379,12 +379,12 @@ msgstr "イシュラーズが没"
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:140
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:308
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:188
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:172
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:214
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:174
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:219
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:236
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:345
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:354
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:194
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:448
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:478
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:696
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:76
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:176
@@ -478,7 +478,7 @@ msgstr "私はこの鎧を装着するべきですか?"
 
 #. [option]: speaker=unit
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:402
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:794
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:796
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:382
 msgid "Yes!"
 msgstr "ハイ!"
@@ -684,8 +684,8 @@ msgstr "両方の馬車をグレート川の向こう岸へ移動"
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:136
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:304
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:184
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:168
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:210
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:170
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:215
 msgid "Destruction of a caravan"
 msgstr "一つでも馬車の滅亡"
 
@@ -728,18 +728,18 @@ msgid ""
 msgstr "オォッー!　我々はこの大蛇の出現を利用できるかも知れん。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:371
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:375
 msgid "Aaack! I regret to report… I am no longer… fit for duty…"
 msgstr ""
 "あぁぁっ... 報告します... 私は、もうこれ以上... 任務を果たせません...。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:381
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:385
 msgid "Aaack! Baldres…! You … cannot … escape forever."
 msgstr "あぁぁっく... バルドレス... 永遠に逃げ切れるとは...　思うなよ...。"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:407
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:411
 msgid ""
 "Farewell, Wesnoth, and thank you for your generosity! Now to set out for our "
 "new home, wherever that may be. With this fortune, we could ride for a "
@@ -749,7 +749,7 @@ msgstr ""
 "ば、それが何処で有ろうと、我々は数千里でも馬に乗ろう。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:427
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:431
 msgid "We are too late! We’ve been cut off from the border."
 msgstr "我々は遅すぎた。境界は、遮られた...。"
 
@@ -779,9 +779,9 @@ msgstr ""
 #. [side]: type=Elvish Royal, id=Eameral
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:45
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:47
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:75
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:222
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:278
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:84
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:231
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:287
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:80
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:37
 #: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:33
@@ -956,7 +956,7 @@ msgstr "何だそりゃ?　今日の名前か?"
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:537
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:484
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:734
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:739
 msgid "We’ve spent too long fighting! It’s over."
 msgstr "戦に時間を使いすぎた。もう終わりだ。"
 
@@ -1417,8 +1417,8 @@ msgstr "スリックスクシックは、邪魔しない限り攻撃して来ま
 
 #. [objective]: condition=win
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:167
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:193
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:436
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:198
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:466
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:680
 #: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:119
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:123
@@ -1499,8 +1499,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:445
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:922
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:643
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:924
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:648
 msgid "Tsss-URK!! … Mark my words… the Fate Spiritss are moving… Doom awakess–"
 msgstr "ツァァァッ...　私の言葉を注視しろ... 破滅の神が動き出すぞ..."
 
@@ -1529,7 +1529,7 @@ msgstr "シオン"
 #. [side]: type=Ghast, id=Necrophage
 #. [side]: type=Necromancer, id=Gulder
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:47
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:102
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:103
 #: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:63
 #: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:86
 #: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:109
@@ -1542,7 +1542,7 @@ msgstr "アンデット族"
 #. [side]: type=Foap Hydra, id=Jata
 #. [side]: type=Naga Myrmidon, id=Milaxilis
 #. [side]: type=Water Serpent, id=Bata
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:119
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:121
 #: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:53
 #: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:104
 #: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:124
@@ -1550,12 +1550,12 @@ msgid "Snakes"
 msgstr "ヘビ族"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:139
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:141
 msgid "My word. This is a strange place…"
 msgstr "ウワッ!　何だここは？"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:143
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:145
 msgid ""
 "Thisss Cione’s cave. Many sstrange thingss lurk here. We should not… Tch. "
 "What iss word? … Linnger."
@@ -1564,14 +1564,14 @@ msgstr ""
 "居るべきでは無い。"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:151
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:153
 msgid "Move any unit to the exit"
 msgstr "誰かを出口に移動"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:319
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:367
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:421
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:321
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:369
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:423
 msgid ""
 "Hmmm… It seems stepping these sighs that close to the walls is like using a "
 "spell to open the path to the next room…"
@@ -1580,9 +1580,9 @@ msgstr ""
 "る様な事らしい...。"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:323
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:371
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:425
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:325
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:373
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:427
 msgid ""
 "Aah, yesss. I now remember it. One of them is linked to Cione's room… But "
 "sstil, I recommend to go back…"
@@ -1591,23 +1591,23 @@ msgstr ""
 "ヤった。それでも、私は戻る事を進める...。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:495
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:497
 msgid "Huh. I hope moving onto this symbol was a good idea…"
 msgstr ""
 "ウーン、このサインの上に乗る事は、我々に幸運をもたらすと良いんだけど...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:554
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:556
 msgid "Tell me, lizard-man. What do those signs mean?"
 msgstr "オイ、トカゲ男!　これらのサインは、何だ?"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:558
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:560
 msgid "I do not know exssactly, but I am sure we ssshould not go near them."
 msgstr "ハッキリとは分からないが、近寄らない方がいい。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:562
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:564
 msgid ""
 "Oh. I assumed you would know, being a local…\n"
 "But if you know nothing about them, we will take our own chances. We may "
@@ -1618,31 +1618,31 @@ msgstr ""
 "かも知れない。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:585
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:587
 msgid "Hoy! A ghost! A ghost has just come out of that pit!"
 msgstr "キャー、亡霊よ!　亡霊が隙間から現れたわ!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:635
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:637
 msgid ""
 "That sigil and the one near the entrance are magically linked… And the "
 "enchantment has been quite craftily done, my Lord."
 msgstr "オー、あのサインは、入り口付近にあったのと同じサインじゃ。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:683
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:685
 msgid ""
 "I am still not sure this is wise… (<i>Sigh.</i>) But sometimes one must "
 "gamble."
 msgstr "このサインに乗る事が、我々に幸運をもたらすといいがのう。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:757
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:759
 msgid "Ha! I guessed right! I thought there would be loot in here, somewhere."
 msgstr "そら見ろ。だいたい洞窟には、財宝は付きものなんだ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:787
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:789
 msgid ""
 "This is a vile-smelling sticky concoction, brewed from old blood and ghoul "
 "venom. It would work best applied to throwing knives."
@@ -1651,27 +1651,27 @@ msgstr ""
 "物です。投げナイフに使うのが良いでしょう。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:792
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:794
 msgid "Shall I start using this potion?"
 msgstr "私はこれを使うべきですか?"
 
 #. [object]: id=potion_poison
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:802
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:804
 msgid "Poison"
 msgstr "毒"
 
 #. [object]: id=potion_poison
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:805
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:807
 msgid "This unit can now use poisoned throwing knives."
 msgstr "このユニットは毒を塗ったナイフを使う事ができます。"
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:819
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:821
 msgid "Poison? Is that from the pit?"
 msgstr "毒?　地獄からかい?"
 
 #. [message]: speaker=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:823
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:825
 msgid ""
 "Yes. Nasty stuff. Keep it topped up with blood and you’ll have poisoned "
 "throwing knives forever more. My old sergeant taught me that trick…"
@@ -1681,19 +1681,19 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [effect]: type=blade
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:830
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:832
 #: Fate_of_a_Princess/units/Follower.cfg:46
 msgid "knife"
 msgstr "ナイフ"
 
 #. [option]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:874
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:876
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:686
 msgid "No."
 msgstr "イイエ!"
 
 #. [message]: id=Cione
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:894
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:896
 msgid ""
 "Dark spirits attend you, southern interlopers! You bring doom with you; "
 "murder and darkness! Welcome! Heheheh!"
@@ -1703,7 +1703,7 @@ msgstr ""
 "ヒッヒッ！"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:898
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:900
 msgid ""
 "Poor foolss, they do not believe words of honesst ssaurian. They will ignore "
 "you, too, Dark Mistress! Sssss!"
@@ -1712,7 +1712,7 @@ msgstr ""
 "ない。あんたの事も聞かないよ、こいつらは！"
 
 #. [message]: id=Cione
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:902
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:904
 msgid ""
 "Especially you with one eye blind, one unseeing, poisoned with base desires! "
 "You would make a fine ghoul! I hope to welcome you to my cave again, some "
@@ -1724,24 +1724,24 @@ msgstr ""
 "の喜び...　すぐに他のものが欲しくなる。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:906
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:908
 msgid ""
 "Old crone, I do not believe your mad jabberings. And my doings are none of "
 "your business."
 msgstr "お前が何と言おうと、俺様には関係ない!　進むだけだ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:932
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:934
 msgid "(<i>Gurgle…</i>)"
 msgstr "(<i>グアー...。</i>)"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:940
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:942
 msgid "Look! The wall on the other side is moving!"
 msgstr "見て、反対側の壁が動いてるわ!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:956
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:958
 msgid "I’ll admit, I am glad to leave this place. Brr!"
 msgstr "皆の者、この薄気味悪い所から、すぐに出るぞ!"
 
@@ -1766,7 +1766,7 @@ msgstr ""
 #. [side]
 #. [side]: type=Saurian Flanker, id=Xizzyx
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:57
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:320
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:329
 #: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:52
 msgid "Saurians"
 msgstr "トカゲ族"
@@ -1774,7 +1774,7 @@ msgstr "トカゲ族"
 #. [side]: type=Saurian Flanker, id=Xizzyx
 #. [unit]: type=Saurian Flanker, id=Xizzyx
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:60
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:428
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:447
 #: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:51
 #: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:501
 msgid "Xizzyx"
@@ -1832,8 +1832,16 @@ msgstr "オークたちの頭をかち割る時が来たわ!"
 msgid "Poor foolss, doom follows you sstill."
 msgstr "卑しい愚か者、破滅の運命がまだ付きまとってるワイ。"
 
+#. [message]: speaker=narrator
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:189
+msgid ""
+"The cannon equips some bombs on this level. Each bomb is thrown to an enemy "
+"right after a melee attack is received. Using it before the 7th turn is "
+"suitable."
+msgstr ""
+
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:287
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:292
 msgid ""
 "This may be our last battle, Jil. Supplies are running very low. What food "
 "will we find in the city?"
@@ -1842,7 +1850,7 @@ msgstr ""
 "がある？"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:291
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:296
 msgid ""
 "My Lord, orcs will eat anything but troll. I wouldn’t touch any supplies "
 "inside that city until we know where they are from."
@@ -1851,7 +1859,7 @@ msgstr ""
 "るまで手を付けないつもりよ。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:298
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:303
 msgid ""
 "This is a harder battle than I expected. I’ve never known these savages to "
 "be such determined fighters."
@@ -1860,7 +1868,7 @@ msgstr ""
 "とは想像外だ。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:310
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:315
 msgid ""
 "My Lord! Ishlars’ Doom is now fully completed! It has not been tested, but "
 "may I try it? I think we can give the orc leader a jolt he won’t forget."
@@ -1869,50 +1877,50 @@ msgstr ""
 "みてもよろしいかのう?　オークのカシラに忘れられんほどの驚きを与えると思うが。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:314
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:319
 msgid ""
 "Very well. Having dragged that cannon for eight score leagues and ten… Go "
 "ahead."
 msgstr "でかしたぞ。大筒をわざわざ長い距離ダラダラと引きずって来たんだ。やれ！"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:318
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:323
 msgid "Fire!"
 msgstr "放ーて!"
 
 #. [unstore_unit]
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:355
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:360
 msgid "30"
 msgstr "30"
 
 #. [message]: id=Raknaglash
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:367
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:372
 msgid "Gwah! What devilry is this?"
 msgstr "グワッ!　何の魔術だ?"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:371
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:376
 msgid "That is… satisfactory, Ishlars. Fire it again."
 msgstr "な、何と...　申し分ないぞ、イシュラーズ。もう一発放て。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:375
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:380
 msgid "Yes, my Lord! Fire!"
 msgstr "ハイ、閣下。放ーて!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:496
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:501
 msgid "Oh dear, a setback. Perhaps the weapon’s name was somehow at fault?"
 msgstr "何てこった、全くの挫折だ。武器の名前は、失敗か何かか?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:500
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:505
 msgid ""
 "Please forgive me, my Lord. I did think the cannon would be strong enough!"
 msgstr "ありゃ、閣下お許しを...　大筒には十分な耐久性が無かったようで...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:504
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:509
 msgid ""
 "Ishlars, old friend. That… provocation will have put the orcs into a slaying "
 "frenzy. Now we will not be able to retreat. I promise, if we lose this day "
@@ -1925,7 +1933,7 @@ msgstr ""
 "ると貴様にとって刺激的だろうよ。"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:525
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:530
 msgid ""
 "Tcchht! Heard ssounds of battle! Ah, humanss! If you are fighting orcss, let "
 "me join in!"
@@ -1934,7 +1942,7 @@ msgstr ""
 "なら助太刀するデ!"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:529
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:534
 msgid ""
 "…\n"
 "\n"
@@ -1945,13 +1953,13 @@ msgstr ""
 "傭兵のトカゲ達だと?　オークと戦いたいと?　いいタイミングだ。承知!"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:611
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:616
 msgid "Thankss for helping! Perhapss you sslow the doom a little…"
 msgstr ""
 "助太刀に礼を言う。たぶん御主は、破滅の運命を少し遅らせるに違いない...。"
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:615
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:620
 msgid ""
 "…\n"
 "Orcs’ doom iss speeded up! That is good, yess?"
@@ -1960,7 +1968,7 @@ msgstr ""
 "オークの破滅は早まったやろ!　良い事ヤ、そやろ?"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:653
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:658
 msgid ""
 "Aaargh! Curse you, humans! Other orcs will come! We will take this place "
 "back!"
@@ -1969,12 +1977,12 @@ msgstr ""
 "すに違いない!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:661
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:666
 msgid "We’ll be ready and waiting, believe me."
 msgstr "いつでも来やがれ、待ってるぜ。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:665
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:670
 msgid ""
 "Phew! We can rest at last! And sleep in a bed again… under a roof!\n"
 "… Ahhh!"
@@ -1983,7 +1991,7 @@ msgstr ""
 "...　あーあっと!"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:685
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:690
 msgid ""
 "Oh, Ishlars, I want a case for that beautiful sword we found. See to it, "
 "will you? I think I’d like it on display in my chambers…"
@@ -1992,7 +2000,7 @@ msgstr ""
 "い剣を我々の家宝として俺様の部屋に飾りたい。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:689
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:694
 msgid "Yes, ‘sir’!"
 msgstr "分かりました!"
 
@@ -2166,33 +2174,33 @@ msgstr ""
 "の兵を引き、バルドレス男爵を倒す為に神聖な誓いを立てました。"
 
 #. [side]: type=Elvish High Lord, id=Elvanadion
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:78
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:87
 msgid "Elvanadíon"
 msgstr "エルヴァナディオン"
 
 #. [side]: type=Elvish Lord, id=Zluld
 #. [unit]: type=Elvish Lord, id=Zluld
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:225
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:234
 #: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:43
 #: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:275
 msgid "Zluld"
 msgstr "ズラルド"
 
 #. [side]: type=Elvish Champion, id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:281
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:290
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:83
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:35
 msgid "Elen-Garil"
 msgstr "エレンーガリル"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:329
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:338
 #: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:82
 msgid "Survive"
 msgstr "生き残る"
 
 #. [message]: id=Elvanadion
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:408
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:417
 msgid ""
 "<b>Humans, you have one chance to stay my bloody vengeance! I am Elvanadíon, "
 "High Lord of all the Greenwood elves! Return Melindë safely to me, with the "
@@ -2203,7 +2211,7 @@ msgstr ""
 "だ下等なバルドレスと共にこちらに渡したまえ!　さもなければ、私の制裁を与える!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:412
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:421
 msgid ""
 "O, noble elf, surely you jest! Why should I give you the best slave I’ve "
 "ever had?"
@@ -2212,19 +2220,19 @@ msgstr ""
 "ば成らないんだ?"
 
 #. [message]: id=Elvanadion
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:416
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:425
 msgid ""
 "<b>Rah! When you are brought before me I will burn your eyes from your head!!"
 "</b>"
 msgstr "何を!　貴様の目を頭から焼いてくれよう!"
 
 #. [unit]: type=Saurian Oracle, id=Jezzix
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:453
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:472
 msgid "Jezzix"
 msgstr "ジェズジックス"
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:461
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:480
 msgid ""
 "Kyeee… I thought humans were battling orcss, but look! They are fighting the "
 "Greenwood elvess."
@@ -2233,7 +2241,7 @@ msgstr ""
 "ンウッドのエルフやないケ。"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:470
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:489
 msgid ""
 "Yess, look at the main elven keep! That iss High Lord Elvanadíon. He leadss "
 "the elves himssself. Thiss… is not ordinary battle, I think."
@@ -2242,7 +2250,7 @@ msgstr ""
 "ている。この戦は尋常じゃ無さそうヤ。"
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:474
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:493
 msgid ""
 "Let uss go, Slixxik. Thiss battle not for ssaurianss. None of our bussiness "
 "iss here, yess?"
@@ -2251,12 +2259,12 @@ msgstr ""
 "ろ？"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:479
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:498
 msgid "Sss. Yess, none. We go!"
 msgstr "その通りヤ。帰ろう!"
 
 #. [message]: id=Jezzix
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:488
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:507
 msgid ""
 "Yess, look at main elven keep! That iss High Lord Elvanadíon. He leadss the "
 "elves himssself. Thiss… is not ordinary battle, I think."
@@ -2265,7 +2273,7 @@ msgstr ""
 "軍を引いている。この戦はどうやら尋常では無さそうヤな。"
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:492
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:511
 msgid ""
 "Let uss go, Jezzix. Thiss battle not for ssaurianss. No orcss here to fight, "
 "yess?"
@@ -2273,17 +2281,17 @@ msgstr ""
 "行くで、ジェズジックス。この戦は我々トカゲ族のものでは無さそうヤ、そやろ？"
 
 #. [message]: id=Jezzix
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:497
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:516
 msgid "Sss. None I can ssee, ssertainly. We go!"
 msgstr "その通りヤ。関係あらへんガナ。帰ろう!"
 
 #. [unit]: type=Gryphon Magerider, id=Gulcyn
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:523
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:542
 msgid "Gulcyn the Wizard"
 msgstr "魔術師ガルシン"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:550
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:569
 msgid ""
 "Ah, oh! Gulcyn the Wizard, riding a gryphon. How vexing; I can only ride a "
 "horse."
@@ -2292,22 +2300,22 @@ msgstr ""
 "しか乗れんのに。"
 
 #. [message]: id=Gulcyn
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:557
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:576
 msgid "Your majesty, grab his leg! We will bear you away!"
 msgstr "陛下、彼女の足をつかみなされ!　私達が陛下を救出致します!"
 
 #. [unit]: type=Elvish Queen, id=Melinde
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:572
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:591
 msgid "Queen Melindë"
 msgstr "ミリンディー女王"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:582
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:601
 msgid "My beautiful slave! Bring her back, you meddler!"
 msgstr "俺様の美しい奴隷が!　彼女を返せ、おせっかい野郎!"
 
 #. [message]: id=Gulcyn
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:586
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:605
 msgid ""
 "Your punishment begins now, Baldres. You have showed no mercy, so none shall "
 "you receive!"
@@ -2316,22 +2324,22 @@ msgstr ""
 "取るものはこれだけだ!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:682
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:701
 msgid "Aah! My h-head! What is… happening…?"
 msgstr "あああっ!　頭が!　何が...　起こっているんだ...?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:686
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:705
 msgid "My Lord?"
 msgstr "閣下?"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:693
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:712
 msgid "… I… don’t… know… you… I… will… kill… you…"
 msgstr "貴様など知らん...　俺様は...　貴様を...　殺す...。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:697
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:716
 msgid ""
 "Oh, no! That is Gulcyn’s power of Domination! I’m in trouble!\n"
 "My Lord! Wake up! We should kill Gulcyn the Wizard and those elves! Not me! "
@@ -2342,7 +2350,7 @@ msgstr ""
 "じゃ無い!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:715
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:734
 msgid ""
 "Oh – now Gulcyn’s escaped with that confounded teleport!\n"
 "No, no, no… Lord! Baldres!"
@@ -2351,22 +2359,22 @@ msgstr ""
 "ち、違う、違う...　閣下!　バルドレス!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:732
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:751
 msgid "Aargh…!"
 msgstr "あぁぁっ...!"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:744
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:763
 msgid "You… murdered Ishlars, you treacherous thug! Who’s next?! Me?!"
 msgstr "あんた...　イシュラーズを殺したわね。この反逆者!　次は誰よ?!　私?!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:758
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:777
 msgid "Aack! … <small>Gulcyn…</small>"
 msgstr "ああっ!　...　<small>ガルシン様...</small>"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:770
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:789
 msgid ""
 "I sometimes wondered if it might be my hand that killed you, one day. I "
 "never thought you’d butcher Ishlars first, though, curse you."
@@ -2376,7 +2384,7 @@ msgstr ""
 "わ。恨むわよ。"
 
 #. [message]: id=Elvanadion
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:779
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:798
 msgid ""
 "… Most honored sage! I am indebted to you forever! I no longer seek revenge, "
 "merely to get poor Melindë safely home to the Greenwood as quickly as I can."
@@ -2385,7 +2393,7 @@ msgstr ""
 "無い、すぐに傷ついたミリンディーを安全に森へ連れて帰る事が先決である。"
 
 #. [message]: id=Gulcyn
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:783
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:802
 msgid ""
 "I can help you with that, my Lord; I have already seen to it that citizens "
 "of Dorest will not disturb you for a while. You can depart in safety. I have "
@@ -2397,7 +2405,7 @@ msgstr ""
 "事が残っていますが、終わり次第、再び戻って参りましょう。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:804
+#: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:823
 msgid ""
 "So it was that Queen Melindë was rescued with the help of Gulcyn the wizard, "
 "but by then the queen had already conceived Baldres’ daughter."
@@ -2513,7 +2521,7 @@ msgstr "ジルを橋の上へ移動"
 
 #. [objective]: condition=lose
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:190
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:440
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:470
 msgid "Death of Dessen"
 msgstr "デッセンが没"
 
@@ -2525,8 +2533,8 @@ msgstr "ヒント: エルフ達になるべく橋を渡らせない"
 #. [attack]: type=blade
 #. [effect]: type=blade
 #. [object]: id=orichalcum_foil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:275
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:285
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:305
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:315
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:734
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:743
 #: Fate_of_a_Princess/units/heroes/Elvish_Colonel.cfg:64
@@ -2537,22 +2545,22 @@ msgid "orichalcum foil"
 msgstr "オリハルカムの鋭片"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:318
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:348
 msgid "Time to skewer me an elf!"
 msgstr "串刺しに成る時が来たわよ、エルフさん!"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:352
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:382
 msgid "What the…? It’s a damned orcish ambush! DESSEN!"
 msgstr "なっ、何よ...? クソオークの待ち伏せ部隊だわ!　デッセン!"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:361
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:391
 msgid "Noooo! Jil!"
 msgstr "ジル..!!"
 
 #. [message]: id=Vrodash
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:380
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:410
 msgid ""
 "Gwahaha! Well done! That was one of their senior commanders when they "
 "captured Dorest. Now let’s take back the city!"
@@ -2561,19 +2569,19 @@ msgstr ""
 "を取り返すぞ!"
 
 #. [message]: id=Prirbag
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:384
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:414
 msgid "Hoy, Vrodash! There’s one o’ them Greenwood fops! Let’s kill him too!"
 msgstr ""
 "ヘイ、ヴロデイシュ!　グリーンウッドのシャレた野郎の一人もいるぜ!　奴もついで"
 "に殺しちまおうぜ!"
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:388
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:418
 msgid "Oh, rot and ruination. Orcs again. (<i>Sigh</i>)"
 msgstr "おっと、腐った破壊屋。オーク達が現れた。"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:392
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:422
 msgid ""
 "(<i><small>Perhaps a chance to start patching things up with the elves… If I "
 "can only find the right pitch.</small></i>)\n"
@@ -2590,22 +2598,22 @@ msgstr ""
 "公らの助太刀が無ければ、ドゥーレストは降伏だ。"
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:397
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:427
 msgid "Well, then, on behalf of the Greenwood elves, I accept–"
 msgstr "それなら我々の利益の上で、私にとって何の問題も無い。"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:401
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:431
 msgid "No, sir, <i>to the orcs</i>."
 msgstr "ち、違う、貴公らによってでは無く、オークにだ。"
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:405
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:435
 msgid "<i>What?!</i> But I– You–"
 msgstr "何?　しかし、私は貴様らを...。"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:409
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:439
 msgid ""
 "We cannot resist them and you both.\n"
 "But if you will assist us against the orcs, we will grant you what "
@@ -2618,7 +2626,7 @@ msgstr ""
 "怒りはグリーンウッドのエルフ達ではなく、我々を落とす事に向けられよう。"
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:414
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:444
 msgid ""
 "I… see. You use your own surrender as a weapon against us. Remarkable. I "
 "must convey these terms to my Lord and master – but, of course, that means I "
@@ -2631,36 +2639,36 @@ msgstr ""
 "の事は、後の事だ。</i><big>承知だ!</big>"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:444
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:474
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:684
 msgid "Death of Elen-Garil"
 msgstr "エレンーガリルが没"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:474
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:504
 msgid "I’m not moving there. Jil would trample me without even slowing down!"
 msgstr ""
 "私は川の向こう側には行かない。ジルにスピードも落とさずに踏みにじられてしま"
 "う。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:507
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:537
 msgid "Agh! I could have made a great city…"
 msgstr "あぁぁ!　私は立派な街を作り上げるつもりだった...。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:520
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:550
 msgid "Now I… cannot… complete… my… duty…"
 msgstr "これでは、私は、使命を達成出来ない...。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:533
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:563
 msgid "Aargh…"
 msgstr "ああっ...。"
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:549
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:620
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:579
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:650
 msgid ""
 "I warn you, sir, my masters may yet wholly reject this… outlandish offer of "
 "yours, but I at least see that it could work… perhaps."
@@ -2669,8 +2677,8 @@ msgstr ""
 "だが、少なくとも私は様子を見てみる事にする。"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:559
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:630
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:589
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:660
 msgid ""
 "Perhaps I can make a further gesture of our good faith. We stumbled across "
 "this beautiful sword on our journey north, and Baldres kept it as a trophy. "
@@ -2683,8 +2691,8 @@ msgstr ""
 "にそれを真の所有者に返還したい。"
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:564
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:635
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:594
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:665
 msgid ""
 "The Greenwood Blade? My word… Yes, Lord Zluld said a unicorn had stolen it "
 "from him. That was a few years ago, too…\n"
@@ -2696,14 +2704,14 @@ msgstr ""
 "持っていれば我々にとって危険な武器と成ろう。分かった。彼に渡して置こう。"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:571
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:642
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:601
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:672
 msgid "Thank you."
 msgstr "礼を言う。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:577
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:648
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:607
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:678
 msgid ""
 "As a result of Dessen’s quick thinking and audacity, humans and northlands "
 "elves fought side by side for the first time ever. In consequence, the elves "
@@ -2715,7 +2723,7 @@ msgstr ""
 "間達の方がオーク達より見込みが有った。' と言う事でした。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:604
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:634
 msgid "Grr-ack…!"
 msgstr "グワー...!"
 
