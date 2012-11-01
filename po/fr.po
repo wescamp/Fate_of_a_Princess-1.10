@@ -1,13 +1,12 @@
-# Guigou Guillaume <guillaume.guigou@orange.fr>, 2012.
-# Guillaume Pascal <guillaume.pascal43@laposte.net>, 2012.
+# Pyrophorus <l.sebilleauATfree.fr>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Fate_of_a_Princess 1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-23 23:12+0200\n"
-"PO-Revision-Date: 2012-08-30 10:22+0200\n"
-"Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
+"PO-Revision-Date: 2012-10-14 15:44+0100\n"
+"Last-Translator: Pyrophorus <l.sebilleauATfree.fr>\n"
 "Language-Team: français <wesnoth@ml.free.fr>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -81,10 +80,10 @@ msgstr ""
 "roi. Les faits et méfaits du baron vont modifier l'équilibre des forces "
 "entre les orcs et les autres dans les terres du Nord, et auront des "
 "conséquences bien après sa disparition éventuelle.\n"
-"Deuxième partie : les elfes de la Forêt verte font face à une crise dont la "
+"Deuxième partie : les elfes de la Verte Forêt font face à une crise dont la "
 "résolution réclame le retour de la demi-sœur exilée de la reine, une demi-"
 "elfe qui est la fille de Baldres. Deux jeunes elfes audacieux vont "
-"entreprendre un voyage périlleux pour la retrouver et la ramener dans sa "
+"entreprendre un périlleux voyage pour la retrouver et la ramener dans sa "
 "forêt natale. S'ils échouent, toutes les terres du Nord seront plongées dans "
 "une guerre contre les orcs qui relèvent la tête...\n"
 "Le Destin d'une Princesse, version :"
@@ -248,13 +247,12 @@ msgstr ""
 #. [race]: id=ungulate
 #: Fate_of_a_Princess/foap-race.cfg:16 Fate_of_a_Princess/foap-race.cfg:18
 msgid "race^Ungulate"
-msgstr ""
+msgstr "Ongulé"
 
 #. [race]: id=ungulate
 #: Fate_of_a_Princess/foap-race.cfg:17
-#, fuzzy
 msgid "race+female^Ungulate"
-msgstr "Fée"
+msgstr "Ongulée"
 
 #. [race]: id=ungulate
 #: Fate_of_a_Princess/foap-race.cfg:19
@@ -264,6 +262,11 @@ msgid ""
 "Animals that belong to this race are horse, cattle, rhinoceros, camel, "
 "hippopotamus, pig, sheep, deer, etc."
 msgstr ""
+"Les ongulés sont différentes espèces d'animaux, qui pour la plupart font "
+"reposer le poids de leur corps sur l'extrémité de leurs doigts de pied, en "
+"général munis de sabots. Les animaux appartenant à cette catégorie sont les "
+"chevaux, les vaches, les rhinocéros, les chameaux, les hippopotames, les "
+"cochons, les moutons, les cerfs, etc."
 
 #. [scenario]: id=01_Time_to_Leave
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:4
@@ -1948,6 +1951,9 @@ msgid ""
 "right after a melee attack is received. Using it before the 7th turn is "
 "suitable."
 msgstr ""
+"Le canon possède plusieurs bombes dans ce scénario. Chaque bombe est lancé "
+"vers l'ennemi juste après la réception d'une attaque en mêlée. Elles sont "
+"utilisables avant le 7ème tour."
 
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:295
@@ -2237,6 +2243,8 @@ msgid ""
 "The recruitment list has been reset\n"
 "Hint: - better to avoid marching the troops to the south"
 msgstr ""
+"La liste de recrutement a été effacée\n"
+"Conseil: - il vaut mieux éviter d'envoyer des troupes dans le sud"
 
 #. [message]: id=Ishlars
 #. [message]: speaker=Turuk
@@ -3137,18 +3145,18 @@ msgstr "Oui, monsieur ! Désolé !"
 #. [message]: id=Alingwen
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:860
 msgid "Noooo…! Bumble is my closest friend…!"
-msgstr ""
+msgstr "Nooooon...! Bumble était mon meilleur ami...!"
 
 #. [unstore_unit]
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:874
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:917
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. [message]: id=Eameral
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:903
 msgid "Toffee…! Noooo…!"
-msgstr ""
+msgstr "Toffee...! Noooooon...!"
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:946
@@ -3371,6 +3379,7 @@ msgstr "2"
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:348
 msgid "Hm…? Strange… Humans should get healed just like us…"
 msgstr ""
+"Hum...? Etrange... Les humains ont besoin d'être soignés tout comme nous..."
 
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:371
 msgid "Rhyss! Wake up! It’s me, Zylvia! Don’t you recognize me?"
@@ -3890,39 +3899,38 @@ msgstr "Oui, il a l'air enthousiaste. Je le prendrais volontiers."
 
 #. [message]: id=foap_trait_choice, speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:491
-#, fuzzy
 msgid "You may choose Elanglois's trait"
-msgstr "Choisissez l'une de ces actions :"
+msgstr "Vous pouvez choisir l'un de ces traits pour Elanglois"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:495
 msgid "He should be faster."
-msgstr ""
+msgstr "Il devrait être plus rapide."
 
 #. [message]: id=Elanglois_fake
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:499
 msgid "I got the 'quick' trait!"
-msgstr ""
+msgstr "Il a obtenu le trait 'rapide' !"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:525
 msgid "He should be stronger"
-msgstr ""
+msgstr "Il devrait être plus fort"
 
 #. [message]: id=Elanglois_fake
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:529
 msgid "I got the 'strong' trait!"
-msgstr ""
+msgstr "Il a obtenu le trait 'fort' !"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:555
 msgid "He should be tougher."
-msgstr ""
+msgstr "Il devrait être plus robuste."
 
 #. [message]: id=Elanglois_fake
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:559
 msgid "I got the 'resilient' trait!"
-msgstr ""
+msgstr "Il a obtenu le trait 'robuste' !"
 
 #. [message]: speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:601
@@ -4674,9 +4682,8 @@ msgstr "Astuce : envoyez une ou deux unités vers l'ouest"
 
 #. [message]: speaker=Turuk
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:163
-#, fuzzy
 msgid "Oh, that’s a staff of speed! One of us should take it!"
-msgstr "Oh, c'est un bâton de vitesse ! Prenez-le !"
+msgstr "Oh, c'est un bâton de vitesse ! L'un d'entre nous devrait le prendre !"
 
 #. [message]: speaker=Hawclyn
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:176
@@ -4686,28 +4693,26 @@ msgstr "Soyez prêts, vous tous !"
 #. [message]: speaker=Turuk
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:220
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:294
-#, fuzzy
 msgid ""
 "Oh, this tunnel was built by us a long time ago… Trolls don't go through it, "
 "though. We played a trick so that the tunnel makes sounds that the trolls "
 "dislike when a wind blows."
 msgstr ""
-"Oh, nous avons construit ce tunnel à sens unique il y a longtemps... "
-"Pourtant, les trolls n'y vont pas. Nous avons conçu un système qui utilise "
-"le vent pour produire des sons que les trolls détestent."
+"Oh, nous avons construit ce tunnel il y a longtemps... Pourtant, les trolls "
+"n'y vont pas. Nous avons conçu un système qui utilise le vent pour produire "
+"des sons que les trolls détestent."
 
 #. [message]: speaker=Turuk
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:226
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:300
-#, fuzzy
 msgid ""
 "Oh, that tunnel was built by us a long time ago… Trolls don't go through it, "
 "though. We played a trick so that the tunnel makes sounds that the trolls "
 "dislike when a wind blows."
 msgstr ""
-"Oh, nous avons construit ce tunnel à sens unique il y a longtemps... "
-"Pourtant, les trolls n'y vont pas. Nous avons conçu un système qui utilise "
-"le vent pour produire des sons que les trolls détestent."
+"Oh, nous avons construit ce tunnel il y a longtemps... Pourtant, les trolls "
+"n'y vont pas. Nous avons conçu un système qui produit des sons que les "
+"trolls détestent quand le vent souffle."
 
 #. [object]: id=foap_staff
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:361
@@ -4823,7 +4828,7 @@ msgstr ""
 #. [unit]: type=Drake Fighter, id=Verle
 #: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:44
 msgid "Verlé"
-msgstr ""
+msgstr "Verlé"
 
 #. [side]: type=Foap Hydra, id=Apakura
 #: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:61
@@ -7212,12 +7217,13 @@ msgstr "Vraiment ? Je suppose qu'il est encore plus occupé."
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:47
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:60
 msgid "Village"
-msgstr ""
+msgstr "Village"
 
 #. [terrain_type]: id=drake_snow_village
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:8
+#, fuzzy
 msgid "Snowy Drake Village (random)"
-msgstr ""
+msgstr "Village dracan enneigé"
 
 #. [terrain_type]: id=drake_snow_village_2
 #. [terrain_type]: id=drake_snow_village_3
@@ -7226,27 +7232,29 @@ msgstr ""
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:35
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:48
 msgid "Snowy Drake Village"
-msgstr ""
+msgstr "Village dracan enneigé"
 
 #. [terrain_type]: id=yeti_village
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:61
+#, fuzzy
 msgid "Yeti Village"
-msgstr ""
+msgstr "Village"
 
 #. [terrain_type]: id=flowers_foap
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:73
+#, fuzzy
 msgid "Mixed Flowers"
-msgstr ""
+msgstr "Fleurs de prairie"
 
 #. [terrain_type]: id=grass_flowers
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:83
 msgid "Grassland"
-msgstr ""
+msgstr "Prairie"
 
 #. [terrain_type]: id=grass_flowers
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:84
 msgid "Grassland Flowers"
-msgstr ""
+msgstr "Fleurs de prairie"
 
 #. [unit_type]: id=Cannon, race=mechanical
 #: Fate_of_a_Princess/units/Cannon.cfg:19
