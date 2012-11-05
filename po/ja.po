@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fate_of_a_Princess 1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-23 23:12+0200\n"
-"PO-Revision-Date: 2012-08-25 22:48-0800\n"
+"PO-Revision-Date: 2012-11-04 09:16-0800\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -227,13 +227,12 @@ msgstr ""
 #. [race]: id=ungulate
 #: Fate_of_a_Princess/foap-race.cfg:16 Fate_of_a_Princess/foap-race.cfg:18
 msgid "race^Ungulate"
-msgstr ""
+msgstr "有蹄類"
 
 #. [race]: id=ungulate
 #: Fate_of_a_Princess/foap-race.cfg:17
-#, fuzzy
 msgid "race+female^Ungulate"
-msgstr "雪の妖精"
+msgstr "有蹄類"
 
 #. [race]: id=ungulate
 #: Fate_of_a_Princess/foap-race.cfg:19
@@ -243,6 +242,8 @@ msgid ""
 "Animals that belong to this race are horse, cattle, rhinoceros, camel, "
 "hippopotamus, pig, sheep, deer, etc."
 msgstr ""
+"有蹄類は、哺乳類の中でつま先に蹄(ひづめ)を持ち、それを使って移動する種類で"
+"す。馬、牛、サイ、ラクダ、カバ、豚、羊、鹿などが有蹄類に属します。"
 
 #. [scenario]: id=01_Time_to_Leave
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:4
@@ -1860,6 +1861,8 @@ msgid ""
 "right after a melee attack is received. Using it before the 7th turn is "
 "suitable."
 msgstr ""
+"このシナリオでは、大筒に爆弾が備わっています。それぞれの爆弾は格闘攻撃を受け"
+"た直後に放たれます。7ターンまでに使うのが好ましいでしょう。"
 
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:295
@@ -2290,7 +2293,7 @@ msgid ""
 "Yess, look at main elven keep! That iss High Lord Elvanadíon. He leadss the "
 "elves himssself. Thiss… is not ordinary battle, I think."
 msgstr ""
-"ああそやな。中心には何と最高君主のエルヴァナディオンが居るやないケ。彼が自ら"
+"ああそヤな。中心には何と最高君主のエルヴァナディオンが居るやないケ。彼が自ら"
 "軍を引いている。この戦はどうやら尋常では無さそうヤな。"
 
 #. [message]: id=Xizzyx
@@ -2299,7 +2302,7 @@ msgid ""
 "Let uss go, Jezzix. Thiss battle not for ssaurianss. No orcss here to fight, "
 "yess?"
 msgstr ""
-"行くで、ジェズジックス。この戦は我々トカゲ族のものでは無さそうヤ、そやろ？"
+"行くで、ジェズジックス。この戦は我々トカゲ族のものでは無さそうヤ、そヤろ？"
 
 #. [message]: id=Jezzix
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:519
@@ -2472,12 +2475,12 @@ msgstr "デッセン"
 #. [side]: type=Orcish Warlord, id=Vrodash
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:103
 msgid "Vrodash"
-msgstr ""
+msgstr "ヴロデイシュ"
 
 #. [side]: type=Orcish Slurbow, id=Prirbag
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:131
 msgid "Prirbag"
-msgstr ""
+msgstr "プリアバグ"
 
 #. [message]: id=Jil
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:155
@@ -2808,12 +2811,12 @@ msgstr "バンブル"
 #. [side]: type=Goblin Pillager, id=Pronk
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:108
 msgid "Pronk"
-msgstr ""
+msgstr "プロンク"
 
 #. [side]: type=Goblin Pillager, id=Prourk
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:136
 msgid "Prourk"
-msgstr ""
+msgstr "プロウルク"
 
 #. [message]: id=Alingwen
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:153
@@ -2879,7 +2882,7 @@ msgstr "静かに!　何かがやって来るわ!"
 #. [unit]: type=Goblin Knight, id=Prunak
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:432
 msgid "Prunak"
-msgstr ""
+msgstr "プラナク"
 
 #. [message]: id=Pronk
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:438
@@ -3011,18 +3014,18 @@ msgstr "ハイ、申し訳ありません、大佐!"
 #. [message]: id=Alingwen
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:860
 msgid "Noooo…! Bumble is my closest friend…!"
-msgstr ""
+msgstr "イヤー...!　バンブルは私の一番の友達よ...!"
 
 #. [unstore_unit]
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:874
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:917
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. [message]: id=Eameral
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:903
 msgid "Toffee…! Noooo…!"
-msgstr ""
+msgstr "トフィー...!　ダメー...!"
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:946
@@ -3244,7 +3247,7 @@ msgstr "2"
 
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:348
 msgid "Hm…? Strange… Humans should get healed just like us…"
-msgstr ""
+msgstr "ん...?　変だ...。人間達も我々の様にヒールされるはずだが...。"
 
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:371
 msgid "Rhyss! Wake up! It’s me, Zylvia! Don’t you recognize me?"
@@ -3746,39 +3749,38 @@ msgstr "私と共に行こう。君の熱心な気持ちはきっと私の助け
 
 #. [message]: id=foap_trait_choice, speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:491
-#, fuzzy
 msgid "You may choose Elanglois's trait"
-msgstr "次のアクションを選んで下さい。"
+msgstr "新たな旅の同行者、エラングロイスの’特性’を選んで下さい。"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:495
 msgid "He should be faster."
-msgstr ""
+msgstr "彼の動きを速くする。"
 
 #. [message]: id=Elanglois_fake
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:499
 msgid "I got the 'quick' trait!"
-msgstr ""
+msgstr "’敏捷’の特性を得た!"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:525
 msgid "He should be stronger"
-msgstr ""
+msgstr "彼の攻撃力を高める。"
 
 #. [message]: id=Elanglois_fake
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:529
 msgid "I got the 'strong' trait!"
-msgstr ""
+msgstr "’強力’の特性を得た!"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:555
 msgid "He should be tougher."
-msgstr ""
+msgstr "彼の防御力を高める。"
 
 #. [message]: id=Elanglois_fake
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:559
 msgid "I got the 'resilient' trait!"
-msgstr ""
+msgstr "’頑強’の特性を得た!"
 
 #. [message]: speaker=narrator
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:601
@@ -4006,8 +4008,8 @@ msgid ""
 "So you mean Gulder could control the orcish shamans, and they could command "
 "the southern orcs?"
 msgstr ""
-"では、そなたはガルダーがオークの呪い師を操り、彼らが南のオーク達に指令を出し"
-"ているとおっしゃるのですか?"
+"では、そなたはガルダーがオークの呪い師達を操り、彼らが南のオーク達に指令を出"
+"しているとおっしゃるのですか?"
 
 #. [message]: speaker=Merllow
 #: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:423
@@ -4509,9 +4511,8 @@ msgstr "ヒント:　一人か二人を西に向かわせる"
 
 #. [message]: speaker=Turuk
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:163
-#, fuzzy
 msgid "Oh, that’s a staff of speed! One of us should take it!"
-msgstr "オォッー!　それは、スピードの杖だ。取りなされ!"
+msgstr "オォッー!　それは、スピードの杖だ。我々の誰かが取るべきだ!"
 
 #. [message]: speaker=Hawclyn
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:176
@@ -4521,26 +4522,24 @@ msgstr "戦闘準備!"
 #. [message]: speaker=Turuk
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:220
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:294
-#, fuzzy
 msgid ""
 "Oh, this tunnel was built by us a long time ago… Trolls don't go through it, "
 "though. We played a trick so that the tunnel makes sounds that the trolls "
 "dislike when a wind blows."
 msgstr ""
-"おっ、この一方通行のトンネルは、我々によって大分前に掘られたベサ。まあトロル"
-"はまず入って来ん。風が吹くと奴らの嫌いな音が鳴る様に細工がしてあるベサ。"
+"おっ、このトンネルは、我々によって大分前に掘られたベサ。まあトロルはまず入っ"
+"て来ん。風が吹くと奴らの嫌いな音が鳴る様に細工がしてあるベサ。"
 
 #. [message]: speaker=Turuk
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:226
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:300
-#, fuzzy
 msgid ""
 "Oh, that tunnel was built by us a long time ago… Trolls don't go through it, "
 "though. We played a trick so that the tunnel makes sounds that the trolls "
 "dislike when a wind blows."
 msgstr ""
-"おっ、その一方通行のトンネルは、大分前に我々が掘ったベサ。まあまずトロルは"
-"入って来ない。風が吹くと奴らの嫌いな音の波長が鳴る様に細工がしてあるベサ。"
+"おっ、そのトンネルは、大分前に我々が掘ったベサ。まあまずトロルは入って来な"
+"い。風が吹くと奴らの嫌いな音の波長が鳴る様に細工がしてあるベサ。"
 
 #. [object]: id=foap_staff
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:361
@@ -4555,7 +4554,7 @@ msgstr "この杖は、持ったユニットに毎ターンごとの｢動き｣
 #. [object]: id=foap_staff
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:365
 msgid "Only magical beings can wield such an object."
-msgstr ""
+msgstr "エルフ族やドワーフ族の様な魔法の生き物のみがこの杖を扱う事が出来ます。"
 
 #. [message]: speaker=narrator
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:418
@@ -5666,7 +5665,7 @@ msgid ""
 msgstr ""
 "<i>幾千もの反射、暗闇の中の輝き\n"
 "閃光を発するその一つ、岩石それを覆う也\n"
-"陰り無いマナコと正義の心\n"
+"陰り無き、鋭いマナコの勇者のみ\n"
 "金属裂片待つ事也</i>"
 
 #. [message]: id=Falci_Nyess
@@ -5730,7 +5729,7 @@ msgstr "岩が再び動き出した!"
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:824
 msgid "Hmmm… It seems this key is not suitable here."
-msgstr ""
+msgstr "フーム...。どうやらこのカギは、ここには合わないようだ。"
 
 #. [message]: id=Turuk
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:859
@@ -6959,7 +6958,7 @@ msgstr "本当かい?　きっと彼は、今まで以上に忙しいだろう�
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:47
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:60
 msgid "Village"
-msgstr ""
+msgstr "村"
 
 #. [terrain_type]: id=drake_snow_village
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:8
@@ -7777,7 +7776,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Fate_of_a_Princess/units/Southern_Warmaster.cfg:24
 msgid "maul"
-msgstr ""
+msgstr "メイス"
 
 #. [attack]: type=blade
 #: Fate_of_a_Princess/units/Southern_Warmaster.cfg:33
@@ -7867,7 +7866,7 @@ msgstr "護符"
 #. [unit_type]: id=Amulet, race=mechanical
 #: Fate_of_a_Princess/units/dummies/Amulet.cfg:18
 msgid "dummy unit^Amulet"
-msgstr ""
+msgstr "護符"
 
 #. [unit_type]: id=Flying Queen, race=gryphon
 #: Fate_of_a_Princess/units/dummies/Flying_Queen.cfg:4
@@ -7877,7 +7876,7 @@ msgstr ""
 #. [unit_type]: id=Flying Queen, race=gryphon
 #: Fate_of_a_Princess/units/dummies/Flying_Queen.cfg:20
 msgid "dummy_unit^Flying Queen"
-msgstr ""
+msgstr "Flying Queen"
 
 #. [unit_type]: id=Gryphon Magerider, race=gryphon
 #: Fate_of_a_Princess/units/dummies/Gryphon_Magerider.cfg:4
@@ -7903,7 +7902,7 @@ msgstr ""
 #. [unit_type]: id=Tomahawk, race=mechanical
 #: Fate_of_a_Princess/units/dummies/Tomahawk.cfg:17
 msgid "dummy unit^Projectile"
-msgstr ""
+msgstr "Projectile"
 
 #. [unit_type]: id=Foap Black Knight, race=human
 #: Fate_of_a_Princess/units/heroes/Black_Knight.cfg:5
@@ -7999,7 +7998,7 @@ msgstr ""
 #: Fate_of_a_Princess/units/heroes/Dwarvish_Noble.cfg:67
 #: Fate_of_a_Princess/units/heroes/Dwarvish_Warden.cfg:72
 msgid "dragonstaff"
-msgstr ""
+msgstr "竜の杖"
 
 #. [unit_type]: id=Dwarvish Warden, race=dwarf
 #: Fate_of_a_Princess/units/heroes/Dwarvish_Warden.cfg:40
@@ -8448,6 +8447,8 @@ msgid ""
 "First Strike:\n"
 "This unit always strikes first with this attack, even if they are defending."
 msgstr ""
+"先制:\n"
+"このユニットは、たとえ防御時であっても常にこの攻撃で先に攻撃します。"
 
 #: Fate_of_a_Princess/utils/FoaP-abilities.cfg:80
 msgid ""
@@ -8498,7 +8499,7 @@ msgstr "防御（防御力10ポイントアップ、回復無し）"
 #. [advancement]: id=foap_amla_leadership_l4
 #: Fate_of_a_Princess/utils/FoaP-amla.cfg:164
 msgid "leadership level 4 (a new ability, no heal full)"
-msgstr ""
+msgstr "統率レベル4（新能力、回復無し）"
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/utils/FoaP-deaths.cfg:11
