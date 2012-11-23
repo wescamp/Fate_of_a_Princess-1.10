@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fate_of_a_Princess-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-23 23:12+0200\n"
+"POT-Creation-Date: 2012-11-22 19:58-0500\n"
 "PO-Revision-Date: 2011-02-13 22:43-0800\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
@@ -269,7 +269,7 @@ msgstr "Itt az idő!"
 #. [side]: type=Lieutenant, id=Linx
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:43
 #: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:45
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:64
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:66
 msgid "Haldric III"
 msgstr "III. Haldric"
 
@@ -279,18 +279,18 @@ msgid "Sergeant Oworraent"
 msgstr "Oworraent őrmester"
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:64
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:56
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:65
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:57
 msgid "Wild Horses"
 msgstr "Vadlovak"
 
 #. [unit]: type=Red Mage, id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:89
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:90
 msgid "Ishlars"
 msgstr "Ishlars"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:104
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:105
 #, fuzzy
 msgid ""
 "Almost finished! My finest, most powerful enchantment! A long distance fire "
@@ -305,7 +305,7 @@ msgstr ""
 "egy sort. Vagy esetleg-"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:108
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:109
 msgid ""
 "Old fool, if you’d spent as much time working on it as you spend thinking of "
 "names for it, it would be finished by now. We’ve already caught some of "
@@ -318,12 +318,12 @@ msgstr ""
 "készen áll az indulásra..."
 
 #. [unit]: type=Rogue Knight, id=Jil
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:114
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:115
 msgid "Jil"
 msgstr "Jil"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:126
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:127
 msgid ""
 "My Lord, the king’s banner has been sighted. Straker’s scouts are hard on my "
 "heels! Our time has run out!"
@@ -332,7 +332,7 @@ msgstr ""
 "Nincs több időnk!"
 
 #. [message]: id=Oworraent
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:130
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:131
 msgid ""
 "Baron Baldres! I am to bring you before the king. Resist, and your life is "
 "forfeit! Yield!"
@@ -341,7 +341,7 @@ msgstr ""
 "ellenkezel, az életeddel játszol. Engedelmeskedj!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:134
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:135
 msgid ""
 "Get to it, Ishlars, or I’ll cut off your ears! The rest of you, to arms!"
 msgstr ""
@@ -349,89 +349,89 @@ msgstr ""
 "fegyverbe!"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:142
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:288
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:64
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:616
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:447
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:143
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:290
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:65
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:617
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:450
 msgid "Defeat the enemy leader"
 msgstr "Legyőzöd az ellenséges vezért"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:146
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:143
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:147
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:147
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:124
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:297
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:90
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:315
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:124
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:292
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:126
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:294
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:171
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:157
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:205
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:159
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:210
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:345
 msgid "Death of Baldres"
 msgstr "Baldres elesik"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:150
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:147
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:151
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:151
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:128
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:301
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:94
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:319
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:128
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:296
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:130
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:298
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:175
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:161
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:209
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:163
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:214
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:228
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:349
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:188
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:192
 msgid "Death of Jil"
 msgstr "Jil elesik"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:154
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:151
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:155
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:155
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:132
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:305
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:98
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:323
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:132
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:300
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:134
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:302
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:179
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:165
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:213
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:167
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:218
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:232
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:353
 msgid "Death of Ishlars"
 msgstr "Ishlars elesik"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:158
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:159
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:159
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:163
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:140
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:313
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:107
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:332
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:140
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:308
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:142
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:310
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:188
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:174
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:222
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:176
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:227
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:236
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:357
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:196
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:480
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:200
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:484
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:712
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:76
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:180
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:632
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:172
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:463
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:139
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:329
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:77
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:181
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:633
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:175
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:466
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:141
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:334
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:126
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:153
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:184
@@ -440,113 +440,113 @@ msgid "Turns run out"
 msgstr "Kifutsz az időből"
 
 #. [unit]: type=Horseman, id=Addrenyc
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:167
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:168
 msgid "Addrenyc"
 msgstr "Addrenyc"
 
 #. [unit]: type=Horseman, id=Meon
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:179
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:180
 msgid "Meon"
 msgstr "Meon"
 
 #. [unit]: type=Horseman, id=Veomyr
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:191
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:192
 msgid "Veomyr"
 msgstr "Veomyr"
 
 #. [unit]: type=Bandit, id=Dibryn
 #. [unit]: type=Ruffian, id=Dibryn
 #. [unit]: type=Thug, id=Dibryn
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:206
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:230
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:254
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:207
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:231
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:255
 msgid "Dibryn"
 msgstr "Dibryn"
 
 #. [unit]: type=Peasant, id=Mugwyn
 #. [unit]: type=Spearman, id=Mugwyn
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:218
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:242
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:266
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:219
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:243
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:267
 msgid "Mugwyn"
 msgstr "Mugwyn"
 
 #. [unit]: type=Thug, id=Ysyclyn
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:277
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:278
 msgid "Ysyclyn"
 msgstr "Ysyclyn"
 
 #. [unit]: type=Sergeant, id=Sarraent
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:288
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:289
 msgid "Sarraent"
 msgstr "Sarraent"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:346
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:347
 msgid ""
 "Hey, old lady! Wake up! The King’s men are here, now, and they’re attacking! "
 "Your magic would be very useful."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:350
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:351
 #, fuzzy
 msgid "Aaa? You mean we have to leave now? Just a moment…"
 msgstr "Áááá? Úgy érted, azonnal indulnunk kell? Várj egy pillanatot!"
 
 #. [unit]: type=Mage, id=Wiowen
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:361
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:362
 msgid "Wiowen"
 msgstr "Wiowen"
 
 #. [message]: id=Wiowen
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:373
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:374
 #, fuzzy
 msgid "All right, I’m ready now. And I am <i>not</i> old!"
 msgstr "Rendben, készen állok. Azért azt megjegyezném, hogy nem vagyok öreg."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:395
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:396
 msgid "This custom made armor gives an unit extra protection from attack."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:400
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:401
 #, fuzzy
 msgid "Should I take this armor?"
 msgstr "Kiürítsem ezt a flaskát?"
 
 #. [option]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:402
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:796
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:403
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:798
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:425
 msgid "Yes!"
 msgstr "Igen!"
 
 #. [object]: id=custom_armor
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:410
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:411
 msgid "custom armor"
 msgstr ""
 
 #. [object]: id=custom_armor
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:411
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:412
 msgid ""
 "This custom armor increases the wearer’s resistance to attack by 20 points."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:432
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:433
 msgid "It fits on me."
 msgstr ""
 
 #. [option]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:454
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:455
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:499
 msgid "No!"
 msgstr "Nem!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:468
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:469
 #, fuzzy
 msgid ""
 "… The spell would work, I know it! But nothing living could survive casting "
@@ -556,7 +556,7 @@ msgstr ""
 "után. Mit tehetnék...?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:475
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:476
 #, fuzzy
 msgid ""
 "… Of course, enchant something non-living! It would have to be very strong, "
@@ -568,12 +568,12 @@ msgstr ""
 "ágyú! Egy ágyút kell építenem!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:479
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:480
 msgid "A breakthrough, O wise one?"
 msgstr "Megszületett a megoldás, ó bölcsek bölcse?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:483
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:484
 msgid ""
 "Of a sort, my Lord. Unfortunately it will take several more days to fashion "
 "the enchantment I have in mind."
@@ -582,13 +582,13 @@ msgstr ""
 "gondolatban megtervezett eszközt."
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:487
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:488
 #, fuzzy
 msgid "I don’t believe we even have three days remaining."
 msgstr "Nem hiszem, hogy még három napot tudnánk áldozni az eszközödre."
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:491
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:492
 #, fuzzy
 msgid ""
 "… Ah. Oh well, I… suppose I should join the battle, then…\n"
@@ -598,7 +598,7 @@ msgstr ""
 "Culverin! Ide hozzám, pajtás! "
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:536
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:537
 #, fuzzy
 msgid ""
 "Renegade! I have delayed you enough! The General… will finish what I have "
@@ -608,7 +608,7 @@ msgstr ""
 "elkezd...tem! "
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:544
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:545
 msgid ""
 "I do not think so. Now hear me! We are leaving! Now! Ishlars! Bring that "
 "thing with you, if you must."
@@ -617,7 +617,7 @@ msgstr ""
 "valamit, ha akarod!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:548
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:549
 msgid ""
 "But, my Lord! Without my laboratory it will take weeks to finish the "
 "enchantment!"
@@ -626,7 +626,7 @@ msgstr ""
 "eszközt!"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:552
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:553
 msgid ""
 "If we tarry, we will never have a chance to use it. You have slowed us down "
 "for long enough, old mage. It’s time to go!"
@@ -635,7 +635,7 @@ msgstr ""
 "várakoztunk miattad, öreg mágus. Itt az idő, indulunk!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:567
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:568
 #, fuzzy
 msgid "We’ve spent too long fighting! Now we really are caught!"
 msgstr "Túl sok ideig harcoltunk! Most már biztos elfognak!"
@@ -665,18 +665,18 @@ msgid "General Straker"
 msgstr "Straker tábornok"
 
 #. [side]: type=Lieutenant, id=Linx
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:67
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:69
 msgid "Colonel Linx"
 msgstr "Linx ezredes"
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:88
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:92
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:57
 msgid "Monsters"
 msgstr "Szörnyek"
 
 #. [message]: id=Straker
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:114
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:118
 msgid ""
 "You are under arrest! I am General Straker. Baron Baldres, it’s time for you "
 "to answer for your crimes! Don’t think you can escape into the northern "
@@ -687,20 +687,20 @@ msgstr ""
 "a határőrség készen áll a fogadásodra!"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:118
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:122
 msgid "I’ve fought those border guards before. Their skulls are hard to split."
 msgstr ""
 "Harcoltam már korábban azokkal a határőrökkel. Nehéz dolog beverni a fejüket."
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:122
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:126
 msgid ""
 "We’ll have to beat them to cross the Great River. We can do it. We must!"
 msgstr ""
 "Márpedig át kell törjünk rajtuk, hogy átkeljünk a Nagy-folyón. Muszáj lesz!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:126
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:130
 #, fuzzy
 msgid ""
 "Bah. The old general’s getting careless. I could fit an army through the "
@@ -710,7 +710,7 @@ msgstr ""
 "résen, amit hagyott. Nézzetek oda!"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:130
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:134
 msgid ""
 "To use the cannon’s long-range attack, right-click on an enemy within three "
 "hexes of the cannon, then select <b>Use long-range cannon attack against "
@@ -721,64 +721,64 @@ msgstr ""
 "használata ezen egység ellen</b> pont kiválasztása."
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:139
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:143
 msgid "Move both caravans over the Great River"
 msgstr "Mindkét társzekér átjut a Nagy-folyón túlra"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:155
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:159
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:136
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:309
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:103
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:328
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:136
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:304
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:138
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:306
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:184
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:170
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:218
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:172
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:223
 msgid "Destruction of a caravan"
 msgstr "Egy társzekér megsemmisül"
 
 #. [unit]: type=Foap Caravan, id=Caravan 1
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:189
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:193
 msgid "Treasure Caravan"
 msgstr "Kincsesszekér"
 
 #. [unit]: type=Foap Caravan, id=Caravan 2
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:201
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:205
 msgid "Supply Caravan"
 msgstr "Társzekér"
 
 #. [unit]: type=Cannon, id=Cannon
 #. [unit_type]: id=Cannon, race=mechanical
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:213
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:217
 #: Fate_of_a_Princess/units/Cannon.cfg:5
 msgid "Cannon"
 msgstr "ágyú"
 
 #. [unit]: type=Horseman, id=Siddry
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:225
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:229
 msgid "Siddry"
 msgstr "Siddry"
 
 #. [unit]: type=Dragoon, id=Convan
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:235
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:239
 msgid "Convan"
 msgstr "Convan"
 
 #. [message]: id=Linx
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:346
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:350
 msgid "Uh-Oh! A Monster Snake!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:350
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:354
 msgid ""
 "Ooh! We may be able to take advantage its appearance to pass through here."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:375
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:379
 #, fuzzy
 msgid "Aaack! I regret to report… I am no longer… fit for duty…"
 msgstr ""
@@ -786,13 +786,13 @@ msgstr ""
 "felad... "
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:385
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:389
 #, fuzzy
 msgid "Aaack! Baldres…! You … cannot … escape forever."
 msgstr "Aaaack! Baldres ...! Nem... futhatsz... örökké."
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:411
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:415
 msgid ""
 "Farewell, Wesnoth, and thank you for your generosity! Now to set out for our "
 "new home, wherever that may be. With this fortune, we could ride for a "
@@ -803,7 +803,7 @@ msgstr ""
 "kíséri lépteinket!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:431
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:435
 msgid "We are too late! We’ve been cut off from the border."
 msgstr "Késő! Bekerítettek minket!"
 
@@ -842,7 +842,7 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:49
 #: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:39
 #: Fate_of_a_Princess/scenarios/26_Epilogue.cfg:37
-#: Fate_of_a_Princess/utils/FoaP-side.cfg:28
+#: Fate_of_a_Princess/utils/FoaP-side.cfg:29
 msgid "Elves"
 msgstr "Tündék"
 
@@ -916,8 +916,8 @@ msgstr "Zholas"
 #. [object]: id=greenwood_sword
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:214
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:349
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:687
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:708
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:690
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:711
 msgid "greenwood blade"
 msgstr "Greenwood-penge"
 
@@ -1015,8 +1015,8 @@ msgstr "Óh, ma épp így nevezed?"
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:537
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:484
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:742
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:486
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:747
 msgid "We’ve spent too long fighting! It’s over."
 msgstr "Túl sokáig harcoltunk! Elbuktunk!"
 
@@ -1044,7 +1044,7 @@ msgstr "Egyszarvúak"
 #. [side]: type=Foap Silver Unicorn, id=Takel
 #. [unit]: type=Foap Silver Unicorn, id=Takel
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:42
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:258
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:260
 msgid "Täkel"
 msgstr "Täkel"
 
@@ -1202,22 +1202,22 @@ msgid "Urkark"
 msgstr "Urkark"
 
 #. [side]: type=Gryphon, id=Korro
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:75
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:77
 msgid "Gryphons"
 msgstr "Griffek"
 
 #. [side]: type=Gryphon, id=Korro
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:78
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:80
 msgid "Korro"
 msgstr "Korro"
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:96
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:98
 msgid "Elf"
 msgstr "Tünde "
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:103
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:105
 msgid ""
 "At last, a break in the terrain. We can head northwards again without laming "
 "the animals."
@@ -1226,7 +1226,7 @@ msgstr ""
 "lovaink lesántulnának."
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:107
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:109
 #, fuzzy
 msgid ""
 "By my reckoning, sir, we are now far enough from Wesnoth to start finding "
@@ -1236,33 +1236,33 @@ msgstr ""
 "valami nagyobb települést keresni - ami megfelelne nekünk."
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:111
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:113
 msgid "Good, because my mace arm is itching again."
 msgstr "Nagyszerű, viszket a tenyerem egy kis csetepaté után."
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:120
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:122
 #, fuzzy
 msgid "Move Baldres onto the sign"
 msgstr "Jil eljut a hídra"
 
 #. [unit]: type=Elvish Druid, id=Fioniel
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:188
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:190
 msgid "Fioniel"
 msgstr "Fioniel"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:217
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:219
 msgid "Hey! There’s something there. Pick up and read it for me."
 msgstr "Héjj! Valami van ott. Kapd fel és olvasd fel, mi van rajta!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:242
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:244
 msgid "What is that? What does it say?"
 msgstr "Na mi az? Mi van beleírva?"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:246
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:248
 #, fuzzy
 msgid ""
 "The Journal of Gulcyn\n"
@@ -1282,7 +1282,7 @@ msgstr ""
 "gyanúm szerint szükség lesz rám a későbbiekben. "
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:253
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:255
 msgid ""
 "Hmmm. Gulcyn is the grandson of one of Haldric’s tame mages on the High "
 "Council. He is a dangerous wizard, my Lord, despite his youth."
@@ -1291,7 +1291,7 @@ msgstr ""
 "unokája. Fiatal kora ellenére is veszélyes varázsló, uram."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:257
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:259
 msgid ""
 "I see. Keep the diary, then – we might find other useful information in it "
 "later."
@@ -1299,12 +1299,12 @@ msgstr ""
 "Nos, tartsd meg azt a naplót - hasznosítható információkat is tartalmazhat."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:339
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:341
 msgid "Oooh! Now, she is beautiful. I want her brought to me."
 msgstr "Ohh! Micsoda gyönyörűség! Azonnal hozzátok ide nekem!"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:343
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:345
 msgid ""
 "My Lord! Please! Finding a city to take over is more important than chasing "
 "her!"
@@ -1313,29 +1313,29 @@ msgstr ""
 "egy nő hajkurászása."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:347
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:349
 msgid "Bah, the city is a matter for later. She is here now!"
 msgstr "Bah, a város megvár! Ő viszont most van csak itt!"
 
 #. [message]: id=Fioniel
 #. [message]: id=Melinde
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:351
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:353
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:702
 msgid "Eeek!"
 msgstr "Eeek!"
 
 #. [message]: id=Urkark
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:405
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:407
 msgid "Who scares my betrothed?"
 msgstr "Mi ijesztette meg az én jegyesemet?"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:409
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:411
 msgid "Your betrothed? Ha! She will be mine from today!"
 msgstr "A te jegyesed! Ugyan! Mától fogva ő az enyém!"
 
 #. [message]: speaker=Urkark
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:413
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:415
 msgid ""
 "You will not take her from me! I will kill you all! Fioniel, hide in the "
 "forest while I fight these bandits."
@@ -1344,12 +1344,12 @@ msgstr ""
 "erdőben, míg én ellátom a baját ezeknek a banditáknak!"
 
 #. [message]: id=Fioniel
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:417
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:419
 msgid "Please be careful, my love."
 msgstr "Vigyázz magadra, szerelmem!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:443
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:445
 #, fuzzy
 msgid ""
 "… Aaack! … Woe is me! … The wedding would have been next week, but at least "
@@ -1359,7 +1359,7 @@ msgstr ""
 "legalább Fionielem biztonságban van a fák között..."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:451
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:453
 msgid ""
 "All right! After her! I want scouts, beaters, fast horsemen along the trails "
 "–"
@@ -1367,7 +1367,7 @@ msgstr ""
 "Ezzel megvagyunk! Elkapni a nőt! Felderítők, hajtók, lovasok keressétek meg -"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:455
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:457
 #, fuzzy
 msgid ""
 "My Lord! An elf? In deep forest? We’ll never find her, and we can’t afford "
@@ -1377,7 +1377,7 @@ msgstr ""
 "veszthetünk időt a keresgéléssel!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:459
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:461
 #, fuzzy
 msgid ""
 "Trooper Jil is right, sir. When we find a city to claim, we’ll face a big "
@@ -1389,7 +1389,7 @@ msgstr ""
 "tartalékaink csökkennek..."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:463
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:465
 #, fuzzy
 msgid "Well, I– Oh, damn it! All right, all right! She was beautiful, though…"
 msgstr ""
@@ -1397,7 +1397,7 @@ msgstr ""
 "volt..."
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:467
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:469
 msgid "Thank you, my Lord. Troops, fall in! Guards, to the wagons! Northwards!"
 msgstr ""
 "Köszönöm, uram! Lovasok, lóra! Őrök, a szekerekhez! Irány észak, indulás!"
@@ -1495,16 +1495,16 @@ msgstr "Slixxik nem támad, amíg békén hagyják."
 
 #. [objective]: condition=win
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:167
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:201
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:468
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:206
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:472
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:696
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:119
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:121
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:122
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:115
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:241
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:313
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:230
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:175
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:116
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:247
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:318
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:233
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:180
 msgid "Defeat all enemy leaders"
 msgstr "Legyőzöd az összes ellenséges vezért"
 
@@ -1582,8 +1582,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:445
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:924
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:651
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:926
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:656
 #, fuzzy
 msgid "Tsss-URK!! … Mark my words… the Fate Spiritss are moving… Doom awakess–"
 msgstr ""
@@ -1616,12 +1616,12 @@ msgstr "Cione"
 #. [side]: type=Ghast, id=Necrophage
 #. [side]: type=Necromancer, id=Gulder
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:47
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:103
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:104
 #: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:63
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:86
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:109
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:129
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:155
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:87
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:111
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:132
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:159
 msgid "Undead"
 msgstr "Élőholtak"
 
@@ -1629,21 +1629,21 @@ msgstr "Élőholtak"
 #. [side]: type=Foap Hydra, id=Jata
 #. [side]: type=Naga Myrmidon, id=Milaxilis
 #. [side]: type=Water Serpent, id=Bata
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:121
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:123
 #: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:64
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:115
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:141
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:116
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:143
 msgid "Snakes"
 msgstr "Kígyók"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:141
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:143
 #, fuzzy
 msgid "My word. This is a strange place…"
 msgstr "Szavamra. Különös egy hely..."
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:145
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:147
 #, fuzzy
 msgid ""
 "Thisss Cione’s cave. Many sstrange thingss lurk here. We should not… Tch. "
@@ -1653,46 +1653,46 @@ msgstr ""
 "ha nem... huh. Hogy is mondják? ... Időznénnnk."
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:153
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:155
 msgid "Move any unit to the exit"
 msgstr "Egy egység eléri a kijáratot"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:321
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:369
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:423
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:323
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:371
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:425
 msgid ""
 "Hmmm… It seems stepping these sighs that close to the walls is like using a "
 "spell to open the path to the next room…"
 msgstr ""
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:325
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:373
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:427
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:327
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:375
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:429
 msgid ""
 "Aah, yesss. I now remember it. One of them is linked to Cione's room… But "
 "sstil, I recommend to go back…"
 msgstr ""
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:497
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:499
 #, fuzzy
 msgid "Huh. I hope moving onto this symbol was a good idea…"
 msgstr "Hah. Remélem szerencsét hoz, hogy ráléptem erre a jelre..."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:556
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:558
 msgid "Tell me, lizard-man. What do those signs mean?"
 msgstr "Mondd csak te gyík-ember! Mik azok a jelek?"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:560
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:562
 msgid "I do not know exssactly, but I am sure we ssshould not go near them."
 msgstr "Pontosan nem is tudom, de inkább el kéne kerrrülnünk."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:564
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:566
 #, fuzzy
 msgid ""
 "Oh. I assumed you would know, being a local…\n"
@@ -1704,12 +1704,12 @@ msgstr ""
 "találunk."
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:587
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:589
 msgid "Hoy! A ghost! A ghost has just come out of that pit!"
 msgstr "Höö! Egy szellem! Egy szellem bukkant fel a szakadékból!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:637
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:639
 #, fuzzy
 msgid ""
 "That sigil and the one near the entrance are magically linked… And the "
@@ -1719,7 +1719,7 @@ msgstr ""
 "műgonddal vannak kidolgozva, uram."
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:685
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:687
 #, fuzzy
 msgid ""
 "I am still not sure this is wise… (<i>Sigh.</i>) But sometimes one must "
@@ -1729,40 +1729,40 @@ msgstr ""
 "néha kockáztatni kell."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:759
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:761
 msgid "Ha! I guessed right! I thought there would be loot in here, somewhere."
 msgstr "Ha! Jól gondoltam! Sejtettem, hogy valami zsákmányra lelünk idelenn."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:789
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:791
 msgid ""
 "This is a vile-smelling sticky concoction, brewed from old blood and ghoul "
 "venom. It would work best applied to throwing knives."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:794
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:796
 #, fuzzy
 msgid "Shall I start using this potion?"
 msgstr "Kiürítsem ezt a flaskát?"
 
 #. [object]: id=potion_poison
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:804
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:806
 msgid "Poison"
 msgstr "Méreg"
 
 #. [object]: id=potion_poison
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:807
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:809
 msgid "This unit can now use poisoned throwing knives."
 msgstr ""
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:821
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:823
 msgid "Poison? Is that from the pit?"
 msgstr "Méreg? Egyenesen a pokolból?"
 
 #. [message]: speaker=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:825
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:827
 msgid ""
 "Yes. Nasty stuff. Keep it topped up with blood and you’ll have poisoned "
 "throwing knives forever more. My old sergeant taught me that trick…"
@@ -1770,19 +1770,19 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [effect]: type=blade
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:832
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:834
 #: Fate_of_a_Princess/units/Follower.cfg:46
 msgid "knife"
 msgstr "kés"
 
 #. [option]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:876
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:878
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:686
 msgid "No."
 msgstr "Nem."
 
 #. [message]: id=Cione
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:896
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:898
 msgid ""
 "Dark spirits attend you, southern interlopers! You bring doom with you; "
 "murder and darkness! Welcome! Heheheh!"
@@ -1791,7 +1791,7 @@ msgstr ""
 "veletek; öldöklés és sötétség! Legyetek üdvözölve! Heheheh!"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:900
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:902
 msgid ""
 "Poor foolss, they do not believe words of honesst ssaurian. They will ignore "
 "you, too, Dark Mistress! Sssss!"
@@ -1800,7 +1800,7 @@ msgstr ""
 "hallgatni, Sötét Úrnő! Sssszzz!"
 
 #. [message]: id=Cione
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:904
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:906
 #, fuzzy
 msgid ""
 "Especially you with one eye blind, one unseeing, poisoned with base desires! "
@@ -1814,7 +1814,7 @@ msgstr ""
 "még hátravan... S amikor a vágy kihúny a szívedből, jusson eszedbe Cione!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:908
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:910
 msgid ""
 "Old crone, I do not believe your mad jabberings. And my doings are none of "
 "your business."
@@ -1823,18 +1823,18 @@ msgstr ""
 "közöd."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:934
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:936
 #, fuzzy
 msgid "(<i>Gurgle…</i>)"
 msgstr "(<i>Gurgulázó nevetés</i>)"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:942
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:944
 msgid "Look! The wall on the other side is moving!"
 msgstr "Nézzétek! Amott a fal elmozdult!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:958
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:960
 #, fuzzy
 msgid "I’ll admit, I am glad to leave this place. Brr!"
 msgstr "Bevallom, örülök, hogy elhagytuk azt a helyet. Brrr!"
@@ -1871,7 +1871,7 @@ msgstr "Gyíkok"
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:63
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:450
 #: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:51
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:501
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:506
 msgid "Xizzyx"
 msgstr "Xizzyx"
 
@@ -1883,12 +1883,12 @@ msgstr "Xizzyx"
 #. [side]: type=Orcish Warlord, id=Vrodash
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:85
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:136
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:158
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:137
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:161
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:100
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:128
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:75
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:322
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:130
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:77
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:324
 msgid "Orcs"
 msgstr "Orkok"
 
@@ -1898,17 +1898,17 @@ msgid "Raknaglash"
 msgstr "Raknaglash"
 
 #. [side]: type=Orcish Slurbow, id=Harik Whitefang
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:138
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:139
 msgid "Harik Whitefang"
 msgstr "Fehérfogú Harik"
 
 #. [side]: type=Orcish Warlord, id=Gragaar the Mighty
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:160
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:163
 msgid "Gragaar the Mighty"
 msgstr "Gorilla Gragaar"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:180
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:185
 msgid ""
 "Finally, a chance at a city of my own, and no meddling monarch to bow to. "
 "These poor primitives will not trouble us! To arms! My– Our city lies before "
@@ -1919,17 +1919,17 @@ msgstr ""
 "otthonunk fekszik előttünk!"
 
 #. [message]: speaker=Jil
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:184
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:189
 msgid "Time to crack some orc-heads!"
 msgstr "Itt az ideje, hogy beverjek néhány ork fejet!"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:188
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:193
 msgid "Poor foolss, doom follows you sstill."
 msgstr "Ssszegény ostobák, a végzet még mindig a nyomotokban járrr."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:192
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:197
 msgid ""
 "The cannon equips some bombs on this level. Each bomb is thrown to an enemy "
 "right after a melee attack is received. Using it before the 7th turn is "
@@ -1937,7 +1937,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:295
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:300
 msgid ""
 "This may be our last battle, Jil. Supplies are running very low. What food "
 "will we find in the city?"
@@ -1946,7 +1946,7 @@ msgstr ""
 "élelmet találunk a városban?"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:299
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:304
 msgid ""
 "My Lord, orcs will eat anything but troll. I wouldn’t touch any supplies "
 "inside that city until we know where they are from."
@@ -1955,7 +1955,7 @@ msgstr ""
 "semmiféle élelemhez odabenn, míg meg nem tudom, miből készült."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:306
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:311
 #, fuzzy
 msgid ""
 "This is a harder battle than I expected. I’ve never known these savages to "
@@ -1965,7 +1965,7 @@ msgstr ""
 "ilyen tántoríthatatlan harcosok."
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:318
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:323
 msgid ""
 "My Lord! Ishlars’ Doom is now fully completed! It has not been tested, but "
 "may I try it? I think we can give the orc leader a jolt he won’t forget."
@@ -1975,7 +1975,7 @@ msgstr ""
 "megemlegesse!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:322
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:327
 #, fuzzy
 msgid ""
 "Very well. Having dragged that cannon for eight score leagues and ten… Go "
@@ -1984,44 +1984,44 @@ msgstr ""
 "Jól van, százhetven mérföldön át vonszoltuk az ágyút, de most... Előre!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:326
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:331
 msgid "Fire!"
 msgstr "Tűz!"
 
 #. [unstore_unit]
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:363
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:368
 msgid "30"
 msgstr ""
 
 #. [message]: id=Raknaglash
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:375
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:380
 msgid "Gwah! What devilry is this?"
 msgstr "Höhh! Micsoda pokoli szerzet ez?"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:379
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:384
 #, fuzzy
 msgid "That is… satisfactory, Ishlars. Fire it again."
 msgstr "Ez... fantasztikus, Ishlars. Újabb lövést!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:383
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:388
 msgid "Yes, my Lord! Fire!"
 msgstr "Igen, uram! Tűz!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:504
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:509
 msgid "Oh dear, a setback. Perhaps the weapon’s name was somehow at fault?"
 msgstr "Ezt a pechet! Talán a fegyver neve volt egy kicsit eltúlozva?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:508
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:513
 msgid ""
 "Please forgive me, my Lord. I did think the cannon would be strong enough!"
 msgstr "Bocsáss meg, uram! Azt hittem, hogy az ágyú elég erős lesz!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:512
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:517
 #, fuzzy
 msgid ""
 "Ishlars, old friend. That… provocation will have put the orcs into a slaying "
@@ -2035,7 +2035,7 @@ msgstr ""
 "gyilkolásban, ha bevadulnak."
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:533
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:538
 msgid ""
 "Tcchht! Heard ssounds of battle! Ah, humanss! If you are fighting orcss, let "
 "me join in!"
@@ -2044,7 +2044,7 @@ msgstr ""
 "csatlakozzunk, mi is!"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:537
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:542
 #, fuzzy
 msgid ""
 "…\n"
@@ -2056,13 +2056,13 @@ msgstr ""
 "Egy zsoldos... gyík? Az orkok ellen alkarsz harcolni? miért is ne?"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:619
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:624
 #, fuzzy
 msgid "Thankss for helping! Perhapss you sslow the doom a little…"
 msgstr "Kösssz a segítséget! Talán egy kissé lelassítottátok a végzetet..."
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:623
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:628
 #, fuzzy
 msgid ""
 "…\n"
@@ -2072,7 +2072,7 @@ msgstr ""
 "Az orrrkok végzete vissszont felgyorrrsult. Ez nekünk jó, nem?"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:661
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:666
 msgid ""
 "Aaargh! Curse you, humans! Other orcs will come! We will take this place "
 "back!"
@@ -2081,12 +2081,12 @@ msgstr ""
 "területet!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:669
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:674
 msgid "We’ll be ready and waiting, believe me."
 msgstr "Itt leszünk, és várjuk őket, elhiheted."
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:673
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:678
 #, fuzzy
 msgid ""
 "Phew! We can rest at last! And sleep in a bed again… under a roof!\n"
@@ -2096,14 +2096,14 @@ msgstr ""
 "...Áááhh!"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:693
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:698
 msgid ""
 "Oh, Ishlars, I want a case for that beautiful sword we found. See to it, "
 "will you? I think I’d like it on display in my chambers…"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:697
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:702
 msgid "Yes, ‘sir’!"
 msgstr "Igen, uram!"
 
@@ -2286,7 +2286,7 @@ msgstr "Elvanadíon"
 #. [unit]: type=Elvish Lord, id=Zluld
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:235
 #: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:45
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:277
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:280
 msgid "Zluld"
 msgstr "Zluld"
 
@@ -2299,7 +2299,7 @@ msgstr "Elen-Garil"
 
 #. [objective]: condition=win
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:341
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:82
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:84
 msgid "Survive"
 msgstr "Túléled a támadást"
 
@@ -2576,12 +2576,12 @@ msgid "Vrodash"
 msgstr "Vrodash"
 
 #. [side]: type=Orcish Slurbow, id=Prirbag
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:131
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:133
 msgid "Prirbag"
 msgstr "Prirbag"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:155
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:159
 #, fuzzy
 msgid ""
 "Damn elves are back to the fray already. Hoy, Dessen. Bring me that elf’s "
@@ -2591,7 +2591,7 @@ msgstr ""
 "nekem annak a tündének a fejét, s egy zacskó arany üti a markod."
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:159
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:163
 #, fuzzy
 msgid ""
 "Jil… Before the fighting starts again, we have a brief chance to talk to "
@@ -2603,7 +2603,7 @@ msgstr ""
 "némi engedményt..."
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:164
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:168
 #, fuzzy
 msgid ""
 "Are you soft in the head? Should I just hand myself over to them, and say "
@@ -2617,7 +2617,7 @@ msgstr ""
 "Ishlars mágust', <i>jobban tennéd</i>, ha megbarátkoznál a gondolattal. "
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:168
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:172
 #, fuzzy
 msgid ""
 "Ah… I had heard tell that Lord Baldres killed Ishlars, and you killed "
@@ -2627,7 +2627,7 @@ msgstr ""
 "Baldrest..."
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:172
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:176
 #, fuzzy
 msgid ""
 "Eh, him or me. I chose him. I’ll choose you, if you ‘forget’ again who is "
@@ -2644,26 +2644,26 @@ msgstr ""
 "hatolok."
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:184
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:188
 msgid "Move Jil onto the bridge"
 msgstr "Jil eljut a hídra"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:192
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:472
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:196
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:476
 msgid "Death of Dessen"
 msgstr "Dessen elesik"
 
 #. [objectives]
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:199
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:203
 msgid "Hint: Blocking elves to across the river"
 msgstr ""
 
 #. [attack]: type=blade
 #. [effect]: type=blade
 #. [object]: id=orichalcum_foil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:307
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:317
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:311
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:321
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:750
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:759
 #: Fate_of_a_Princess/units/heroes/Elvish_Colonel.cfg:64
@@ -2674,23 +2674,23 @@ msgid "orichalcum foil"
 msgstr "orikalkum penge"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:350
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:354
 msgid "Time to skewer me an elf!"
 msgstr "Ideje, hogy egy tündét nyársaljak!"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:384
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:388
 #, fuzzy
 msgid "What the…? It’s a damned orcish ambush! DESSEN!"
 msgstr "Mi a...? Egy átkozott ork rajtaütés! DESSEN!"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:393
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:397
 msgid "Noooo! Jil!"
 msgstr "Neee! Jil!"
 
 #. [message]: id=Vrodash
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:412
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:416
 #, fuzzy
 msgid ""
 "Gwahaha! Well done! That was one of their senior commanders when they "
@@ -2700,17 +2700,17 @@ msgstr ""
 "Dorestet. Na vegyük vissza tőlük a várost!"
 
 #. [message]: id=Prirbag
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:416
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:420
 msgid "Hoy, Vrodash! There’s one o’ them Greenwood fops! Let’s kill him too!"
 msgstr "Hejj, Vrodash! Van itt egy tünde jampec is! Kinyírom ezt is! "
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:420
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:424
 msgid "Oh, rot and ruination. Orcs again. (<i>Sigh</i>)"
 msgstr "Ó, rohadás, és rombolás. Már megint az orkok. (<i>Sóhajt</i>)"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:424
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:428
 #, fuzzy
 msgid ""
 "(<i><small>Perhaps a chance to start patching things up with the elves… If I "
@@ -2728,23 +2728,23 @@ msgstr ""
 "visszaverni őket. Ha nem segítetek, Dorest elbukik."
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:429
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:433
 #, fuzzy
 msgid "Well, then, on behalf of the Greenwood elves, I accept–"
 msgstr "Nos, a greenwoodi tündék nevében elfogadom a meg..."
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:433
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:437
 msgid "No, sir, <i>to the orcs</i>."
 msgstr "Tévedsz, uram, <i>az orkokra mutat</i>."
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:437
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:441
 msgid "<i>What?!</i> But I– You–"
 msgstr "<i>Mit akar?!</i> De én- te-"
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:441
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:445
 #, fuzzy
 msgid ""
 "We cannot resist them and you both.\n"
@@ -2758,7 +2758,7 @@ msgstr ""
 "támadni, s nem a greenwoodi tündéket."
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:446
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:450
 #, fuzzy
 msgid ""
 "I… see. You use your own surrender as a weapon against us. Remarkable. I "
@@ -2772,37 +2772,37 @@ msgstr ""
 "pimasz ember. Aztán - majd meglátjuk."
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:476
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:480
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:700
 msgid "Death of Elen-Garil"
 msgstr "Elen-Garil elesik"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:506
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:510
 msgid "I’m not moving there. Jil would trample me without even slowing down!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:539
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:543
 #, fuzzy
 msgid "Agh! I could have made a great city…"
 msgstr "Ááhh! Egy nagy várost kellett volna felépítenem..."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:552
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:556
 #, fuzzy
 msgid "Now I… cannot… complete… my… duty…"
 msgstr "Nem tudtam... teljesíteni... a... feladatomat..."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:565
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:569
 #, fuzzy
 msgid "Aargh…"
 msgstr "Ááááhhh!"
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:581
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:652
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:585
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:656
 #, fuzzy
 msgid ""
 "I warn you, sir, my masters may yet wholly reject this… outlandish offer of "
@@ -2812,8 +2812,8 @@ msgstr ""
 "felajánlást, bár én azt hiszem, működhetne a dolog... talán. "
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:591
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:662
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:595
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:666
 msgid ""
 "Perhaps I can make a further gesture of our good faith. We stumbled across "
 "this beautiful sword on our journey north, and Baldres kept it as a trophy. "
@@ -2822,8 +2822,8 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Elen-Garil
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:596
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:667
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:600
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:671
 msgid ""
 "The Greenwood Blade? My word… Yes, Lord Zluld said a unicorn had stolen it "
 "from him. That was a few years ago, too…\n"
@@ -2832,14 +2832,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Dessen
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:603
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:674
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:607
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:678
 msgid "Thank you."
 msgstr "Köszönöm."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:609
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:680
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:613
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:684
 msgid ""
 "As a result of Dessen’s quick thinking and audacity, humans and northlands "
 "elves fought side by side for the first time ever. In consequence, the elves "
@@ -2852,7 +2852,7 @@ msgstr ""
 "megbizonyosodhattak róla, hogy jobb szomszédok lehetnek, mint az orkok."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:636
+#: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:640
 #, fuzzy
 msgid "Grr-ack…!"
 msgstr "Grr-ack...!"
@@ -2901,9 +2901,9 @@ msgstr "Alingwen"
 
 #. [unit]: type=Wose, id=Muruatuumbie
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:77
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:113
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:139
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:159
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:114
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:140
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:160
 msgid "Muruatuumbië"
 msgstr "Muruatuumbië"
 
@@ -3239,19 +3239,19 @@ msgstr "Rhyss"
 #. [side]: type=Grand Marshal, id=Dessen
 #. [side]: type=Master Bowman, id=Niallas
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:37
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:146
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:147
 #: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:160
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:271
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:272
 msgid "Humans"
 msgstr "Emberek"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:68
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:172
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:620
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:160
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:451
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:123
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:69
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:173
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:621
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:163
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:454
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:125
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:106
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:133
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:160
@@ -3260,12 +3260,12 @@ msgid "Death of Háwclyn"
 msgstr "Háwclyn elesik"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:72
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:176
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:624
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:164
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:455
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:127
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:73
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:177
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:625
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:167
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:458
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:129
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:110
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:137
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:164
@@ -3273,15 +3273,15 @@ msgstr "Háwclyn elesik"
 msgid "Death of Zylvia"
 msgstr "Zylvia elesik"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:87
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:88
 msgid "Zylvia"
 msgstr "Zylvia"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:173
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:174
 msgid "Calándel"
 msgstr "Calándel"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:240
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:241
 #, fuzzy
 msgid ""
 "Hey! Zylvia, look yonder! A group of the Dorest humans are approaching. But… "
@@ -3290,7 +3290,7 @@ msgstr ""
 "Hejj! Zylvia, nézz csak oda! Egy csoport doresti ember közeledik. De... "
 "miért vannak felfegyverezve?"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:244
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:245
 msgid ""
 "I do not know. But fear not, Háwclyn. I recognise their leader. That is my "
 "friend, Rhyss."
@@ -3298,7 +3298,7 @@ msgstr ""
 "Nem tudom, de aggodalomra semmi ok, Háwclyn. Ismerem a vezetőjüket. A "
 "barátom, Rhyss az."
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:248
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:249
 msgid ""
 "Greetings, Rhyss! What are you doing today? Are you going to a tournament, "
 "perhaps?"
@@ -3306,24 +3306,24 @@ msgstr "Üdv, Rhyss! Hogy vagy mindig? Kirándulni indultál talán?"
 
 #. [message]: id=Takel
 #. [message]: id=Ukyle
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:252
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:194
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:536
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:294
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:253
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:195
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:537
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:299
 msgid "…"
 msgstr ""
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:256
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:257
 msgid "Rhyss? Can’t you hear me?"
 msgstr "Rhyss!!! Süket vagy?"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:260
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:261
 #, fuzzy
 msgid "… I… do… not… know… you… We come here to kill you…"
 msgstr ""
 "...Én...nem... tudom...ki vagy... Azért jöttünk, hogy megöljünk titeket... "
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:264
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:265
 #, fuzzy
 msgid ""
 "What?! But… there’s a treaty between Dorest and the Greenwood! Are you mad?"
@@ -3331,11 +3331,11 @@ msgstr ""
 "Micsoda!? De... hiszen egyezményt kötöttek a dorestiek és a greenwoodiak. "
 "Megőrültél?"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:268
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:269
 msgid "It seems he is. To arms! To arms!"
 msgstr "Úgy tűnik... Fegyverbe, fegyverbe!"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:272
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:273
 msgid ""
 "At most two surviving units from this level may accompany you into future "
 "scenarios; any other survivors will remain behind."
@@ -3343,38 +3343,38 @@ msgstr ""
 "Legfeljebb két túlélő egység csatlakozhat hozzád a későbbiekben; a többi "
 "túlélő elmarad."
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:292
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:293
 msgid "This holy water makes each of living units get full healed."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:313
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:416
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:314
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:422
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1214
 msgid "Uh…!"
 msgstr ""
 
 #. [unstore_unit]
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:327
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:430
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:328
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:436
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1228
 msgid "2"
 msgstr ""
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:348
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:349
 msgid "Hm…? Strange… Humans should get healed just like us…"
 msgstr ""
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:371
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:372
 msgid "Rhyss! Wake up! It’s me, Zylvia! Don’t you recognize me?"
 msgstr ""
 "Rhyss! Térj magadhoz! Én vagyok az Zylvia! Lord Zluld lánya! Nem ismersz meg?"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:385
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:386
 msgid "Rhyss, please! I don’t want to fight you!"
 msgstr "Kérlek, Rhyss! nem akarok harcolni veled!"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:395
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:396
 #, fuzzy
 msgid ""
 "… Ha… ha… ha… This is not the end. More soldiers are coming in a few days… "
@@ -3383,11 +3383,11 @@ msgstr ""
 "...Ha...ha...ha... Ezzel még nincs vége. Napokon belül újabb harcosok "
 "jönnek... Gulder... Gulderért..."
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:403
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:404
 msgid "What does he mean?"
 msgstr "Mit akar ezzel mondani?"
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:407
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:408
 msgid ""
 "I do not understand what happened to Rhyss. He was a kind man. We have been "
 "friends since we met at the final of the archery competition last year."
@@ -3395,11 +3395,11 @@ msgstr ""
 "Nem értem, mi történt. Rhyss egy klassz srác volt. Barátok voltunk a tavalyi "
 "íjászverseny döntője óta. "
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:411
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:412
 msgid "We have to report this to Queen Eämeral immediately."
 msgstr "Azonnal jelentést kell tennünk Eämeral királynőnek."
 
-#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:415
+#: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:416
 msgid "Go, son of Elen-Garil. I will keep watch here."
 msgstr "Menj, Elen-Garil fia! Én itt őrködök tovább."
 
@@ -3670,14 +3670,14 @@ msgstr ""
 #. [side]: type=Southern Warmaster, id=Silingako
 #. [side]: type=Southern Warmaster, id=Tuweng
 #: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:48
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:79
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:80
 #: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:76
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:102
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:160
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:258
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:104
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:164
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:261
 #: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:106
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:330
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:366
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:333
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:369
 msgid "Southern Orcs"
 msgstr "Déli orkok"
 
@@ -3687,12 +3687,12 @@ msgid "Yokomhorto"
 msgstr "Yokomhorto"
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:84
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:85
 msgid "Beasts"
 msgstr "Vadak"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:126
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:127
 msgid ""
 "While equipped with his family heirlooms, Háwclyn has a lightning attack, "
 "and his resistances and movement rates have been altered."
@@ -3702,7 +3702,7 @@ msgstr ""
 "és mozgási képességei is módosulnak."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:131
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:132
 msgid ""
 "The Guard Captain ordered me to carry our banner. It feels so odd for me to "
 "be bearing it."
@@ -3711,7 +3711,7 @@ msgstr ""
 "számomra, hogy én vihetem."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:135
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:136
 #, fuzzy
 msgid ""
 "It’s all right. … We have to travel without a captain or marshal anyway.\n"
@@ -3723,70 +3723,70 @@ msgstr ""
 "vészjelzésünk! Valakinek segítségre van szüksége!"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:168
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:169
 #, fuzzy
 msgid "Move Háwclyn or Zylvia to the castle in the west"
 msgstr "Háwclyn vagy Zylvia eléri a nyugati kastélyt "
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:197
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:198
 msgid "Orcish Territory"
 msgstr "Ork felségterület"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:202
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:203
 msgid "We are entering orcish territory now. Keep alert."
 msgstr "Ork területre léptünk. Legyetek óvatosak!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:321
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:322
 msgid "Even the beasts seem crazed!"
 msgstr "Még a vadak is megvesztek!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:341
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:342
 #, fuzzy
 msgid "Yes, somebody has been here, recently… Elin-Sal, I hope."
 msgstr "Igen, valaki már járt erre, alkalmasint... Elin-sal, remélem."
 
 #. [unit]: id=Merllow, type=White Mage
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:349
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:350
 msgid "Merllow"
 msgstr "Merllow"
 
 #. [unit]: id=Scally, type=Footpad
 #. [unit]: id=Scally, type=Outlaw
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:367
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:384
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:368
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:385
 msgid "Scally"
 msgstr "Scally"
 
 #. [unit]: type=Elvish Recruit, id=Elanglois
 #. [unit]: type=Elvish Recruit, id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:403
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:510
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:540
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:570
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:404
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:511
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:541
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:571
 msgid "Elanglois"
 msgstr "Elanglois"
 
 #. [unit]: id=Cryndil, type=Elvish Marksman
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:412
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:413
 msgid "Cryndil"
 msgstr "Cryndil"
 
 #. [unit]: type=Elvish Fighter, id=Nimalon
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:425
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:426
 msgid "Nimalon"
 msgstr "Nimalon"
 
 #. [unit]: id=Amefulvia, type=Elvish Archer
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:434
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:435
 msgid "Amëfulvia"
 msgstr "Amëfulvia"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:450
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:451
 msgid ""
 "Sergeant Cryndil, Merllow, honored mage, greetings. Elengavion Castle is in "
 "danger, sergeant. You will need to return immediately. But before you "
@@ -3797,7 +3797,7 @@ msgstr ""
 "mielőtt elindulsz, mi történt itt? Hol van Elin-Sal kapitány?"
 
 #. [message]: id=Cryndil
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:454
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:455
 #, fuzzy
 msgid ""
 "Dead, sir. Merllow came to us in great haste, with news of some… disturbance "
@@ -3811,7 +3811,7 @@ msgstr ""
 "látszatát keltve próbáljuk tartani a folyónak ezt a partját."
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:458
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:459
 #, fuzzy
 msgid ""
 "It’s a rogue half-elven wizard called Gulder. He was using the powers of "
@@ -3827,7 +3827,7 @@ msgstr ""
 "láttam még ennyi orkot!"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:462
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:463
 msgid ""
 "Southern orcs? How has he been able to control orcs? They do not normally "
 "listen to what humans say, do they?"
@@ -3836,7 +3836,7 @@ msgstr ""
 "bárki emberfia mond nekik."
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:466
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:467
 #, fuzzy
 msgid ""
 "Yes, that’s true. Domination does not work on orcs. … I don’t know, milady. "
@@ -3846,7 +3846,7 @@ msgstr ""
 "A menekülésemmel foglalkoztam, nehogy elkapjanak. "
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:470
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:471
 msgid ""
 "Very well. I will take care of the orcs here. We must continue in this "
 "direction to reach the mountains of Dorth anyway. Sergeant Cryndil, please "
@@ -3860,14 +3860,14 @@ msgstr ""
 "orkokat."
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:474
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:475
 #, fuzzy
 msgid "Why, certainly. I am no use to anyone, blundering about in the woods…"
 msgstr ""
 "Persze, bár nem tudom, mi hasznomat vennéd az erdei partizánakciókhoz..."
 
 #. [message]: id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:478
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:479
 msgid ""
 "Sergeant Cryndil! Sir! May I go with Major Háwclyn? I would like to help "
 "forge a legend."
@@ -3876,7 +3876,7 @@ msgstr ""
 "írni én is."
 
 #. [message]: id=Cryndil
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:482
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:483
 msgid ""
 "Eh, that’s the ranking officer’s decision, not mine. Still, taking one "
 "soldier fewer back to the castle does no harm that I can see."
@@ -3885,58 +3885,58 @@ msgstr ""
 "nem oszt, nem szoroz, ha eggyel kevesebb katonával térek vissza a kastélyba."
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:486
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:487
 msgid "Yes, he seems keen. I will gladly take him."
 msgstr "Nos, értékelem a lelkesedésedet. Szívesen látlak köztünk."
 
 #. [message]: id=foap_trait_choice, speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:491
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:492
 #, fuzzy
 msgid "You may choose Elanglois's trait"
 msgstr "Választhatsz, hogyan folytatod:"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:495
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:496
 msgid "He should be faster."
 msgstr ""
 
 #. [message]: id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:499
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:500
 msgid "I got the 'quick' trait!"
 msgstr ""
 
 #. [option]: id=foap_trait_choice, speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:525
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:526
 msgid "He should be stronger"
 msgstr ""
 
 #. [message]: id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:529
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:530
 msgid "I got the 'strong' trait!"
 msgstr ""
 
 #. [option]: id=foap_trait_choice, speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:555
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:556
 msgid "He should be tougher."
 msgstr ""
 
 #. [message]: id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:559
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:560
 msgid "I got the 'resilient' trait!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:601
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:602
 #, fuzzy
 msgid "You can now recruit Merllow the Sage’s <i>Followers</i>."
 msgstr "Mostantól Merllow, a bölcs <i>kíséretéből</i> is toborozhatsz."
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:628
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:168
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:459
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:131
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:321
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:629
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:171
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:462
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:133
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:326
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:114
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:149
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:176
@@ -3944,12 +3944,12 @@ msgid "Death of Merllow"
 msgstr "Merllow elesik"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:647
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:648
 msgid "Aargh!"
 msgstr "Ááááhhh!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:655
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:656
 msgid ""
 "I still see no reason for southern orcs to lurk here, whether they came of "
 "their own accord or because Gulder sent them."
@@ -3958,7 +3958,7 @@ msgstr ""
 "akaratukból jöttek, vagy tényleg Gulder küldte őket."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:659
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:660
 msgid ""
 "That small river leads in the direction of the Mountains of Dorth. We should "
 "follow it."
@@ -3967,14 +3967,14 @@ msgstr ""
 
 #. [message]: speaker=Merllow
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:673
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:504
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:674
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:507
 #, fuzzy
 msgid "Aaaargh…!"
 msgstr "Ááááhhh...!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:677
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:678
 msgid ""
 "Oh, no! That is a fatal blow to my mission. What will I do without his "
 "knowledge of magic??"
@@ -3983,7 +3983,7 @@ msgstr ""
 "ereje nélkül!!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:692
+#: Fate_of_a_Princess/scenarios/13_Over_the_River.cfg:693
 #, fuzzy
 msgid "I have failed my Queen and my people…"
 msgstr "Csalódást okoztam a királynőnek és a népemnek..."
@@ -4006,40 +4006,40 @@ msgstr ""
 "elérték, épp egy gyíkcsapat készülődött megütközni a déli orkokkal."
 
 #. [side]: type=Southern Savage, id=Bongasa
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:78
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:79
 msgid "Bongasa"
 msgstr "Bongasa"
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:127
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:130
 msgid "Latoromo"
 msgstr "Latoromo"
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:130
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:104
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:133
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:108
 msgid "Mage-led Orcs"
 msgstr "Mágus-irányította orkok"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:156
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:159
 #, fuzzy
 msgid "First defeat the Orcish Mage"
 msgstr "Legyőzöd az ork mágust"
 
 #. [message]: speaker=Bongasa
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:222
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:225
 msgid "Let’s claim these lands for orcs!"
 msgstr "Foglaljuk el ezt a földet az orkoknak!"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:231
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:234
 #, fuzzy
 msgid "Kyeee… why are sssouth orcs in my territory?"
 msgstr "Hájjéé... Mit kerrresnek az orrrkok az én terrrületemen?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:235
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:238
 msgid ""
 "Sir, may we offer you our help? We are no friends of orcs, and we must fight "
 "past them to get to the Mountains of Dorth in any case."
@@ -4048,7 +4048,7 @@ msgstr ""
 "különben is elállják az utunkat a Dorth-hegység felé."
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:244
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:247
 #, fuzzy
 msgid ""
 "Tccht! Ssstrange! Why you carry the elvish banner when you are not captain "
@@ -4058,19 +4058,19 @@ msgstr ""
 "se marsall? Cöcö! Nem is vagy igazi tünde... "
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:248
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:251
 msgid "I am Háwclyn, son of Elen-Garil."
 msgstr "Háwclyn vagyok, Elen-Garil fia."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:252
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:263
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:325
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:255
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:265
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:327
 msgid "And I am Zylvia, daughter of Lord Zluld."
 msgstr "Én pedig Zylvia, Lord Zluld lánya."
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:261
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:264
 #, fuzzy
 msgid ""
 "Elen-Garil? And Tsss-luld…? I have heard those namess… Ah, Elvanadíon’s "
@@ -4081,13 +4081,13 @@ msgstr ""
 
 #. [unit]: id=Vladnir, type=Drake Alchemist
 #. [unit]: type=Drake Alchemist, id=Vladnir
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:280
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:283
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1029
 msgid "Vladnir"
 msgstr "Vladnir"
 
 #. [message]: speaker=Vladnir
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:304
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:307
 #, fuzzy
 msgid ""
 "Goblins? Orcs? Berserkers? Here? And southern raiders at that!? What is the "
@@ -4095,12 +4095,12 @@ msgid ""
 msgstr "Trollok, nagák és déli orkok? Itt? Mekkorát fordult a világ!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:308
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:311
 msgid "Who is that?"
 msgstr "Ki az?"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:312
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:315
 msgid ""
 "Tsss. Friend. Name Vladnir. Leave him alone though. Likess ssaurians. Lesss "
 "fond of other ground-crawlerss."
@@ -4109,44 +4109,44 @@ msgstr ""
 "többi földi lényt nem nagyon kedveli."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:354
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:357
 msgid "To Prestim"
 msgstr "Prestim felé"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:372
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:375
 msgid "To Lmarig"
 msgstr "Lmarig felé!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:385
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:388
 msgid "We are out of time!"
 msgstr "Kifutottunk az időből!"
 
 #. [message]: id=Bongasa
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:395
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:398
 msgid "Oh, no! Curse it, they’ve butchered the shaman!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:399
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:402
 #, fuzzy
 msgid "… Ha… ha… ha… This is not the end… Gulder… for Gulder…"
 msgstr "...Ha... ha... ha... Ezzel még nincs vége... Gulder... Gulderért..."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:407
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:410
 msgid "Wait, that is exactly what Rhyss said."
 msgstr ""
 "Álljon meg a menet, Rhyss pontosan ezeket a szavakat mondta a halála előtt."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:411
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:414
 msgid "Does that mean the orcish mage was also controlled by Gulder?"
 msgstr "Azt jelenti ez, hogy az ork mágust szintén Gulder irányította?"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:415
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:418
 #, fuzzy
 msgid ""
 "Hmmm… Perhaps Gulcyn’s arts depend on the sensitivity of the victim’s brain. "
@@ -4156,7 +4156,7 @@ msgstr ""
 "legtöbb ork érzéketlen, de a sámánjaik fogékonyak lehetnek..."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:419
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:422
 msgid ""
 "So you mean Gulder could control the orcish shamans, and they could command "
 "the southern orcs?"
@@ -4165,13 +4165,13 @@ msgstr ""
 "akik viszont vezetik a déli orkokat?"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:423
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:426
 #, fuzzy
 msgid "I am just saying it might be a possibility…"
 msgstr "Csak a lehetőségeket vázolom..."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:427
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:430
 msgid ""
 "I do hope you are wrong, Merllow, but I think we should now make all "
 "possible haste."
@@ -4180,8 +4180,8 @@ msgstr ""
 "lehetőségeket."
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:478
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:541
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:481
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:544
 #, fuzzy
 msgid ""
 "Haaawclyn, Tsss-ylvia, you fought well. If you ssseek mountains, follow the "
@@ -4193,27 +4193,27 @@ msgstr ""
 "Essz a legrövidebb út. Ssszívesen adok néhány gyík harcossszt kíséretnek."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:482
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:545
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:485
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:548
 msgid "Thank you, sir."
 msgstr "Köszönöm, uram."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:486
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:549
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:489
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:552
 msgid "You can now recruit <i>Saurian Skirmishers</i>."
 msgstr "Mostantól <i>gyík menetelőket</i> is toborozhatsz."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:508
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:511
 msgid "Merllow the Sage! Oh no! We still needed his help."
 msgstr ""
 "Bölcs Merllow! Ó, ne! Legalább annyira szükségünk volt a segítségedre, mint "
 "neked a miénkre."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:521
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:248
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:524
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:250
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:537
 #, fuzzy
 msgid "Aaarh…"
@@ -4243,7 +4243,7 @@ msgstr ""
 #. [unit]: id=Turuk, type=Dwarvish Noble
 #: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:52
 #: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:53
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:83
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:85
 msgid "Turuk"
 msgstr "Turuk"
 
@@ -4254,12 +4254,12 @@ msgid "Tuweng Kli’ike"
 msgstr "Tuweng Kli'ike"
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:101
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:103
 msgid "Rodaroti"
 msgstr "Rodaroti"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:135
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:137
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:118
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:145
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:172
@@ -4268,17 +4268,17 @@ msgid "Death of Turuk"
 msgstr "Turuk elesik"
 
 #. [message]: id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:162
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:164
 msgid "… Take… over… here…"
 msgstr ""
 
 #. [message]: id=Tuweng
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:166
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:168
 msgid "Yes! Sir!"
 msgstr "Igen, uram!"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:170
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:172
 msgid ""
 "Hey, elf lad! I judge ye are nae friends tae the orcs! Help me fight these "
 "southern marauders! They shouldnae be this far from their homelands!"
@@ -4287,7 +4287,7 @@ msgstr ""
 "fosztogatók ellen! Nem kén' itt lenniük, iiyen messzire  a fődjüktűl."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:174
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:176
 msgid ""
 "Gladly, sir. If we are to find the Princess Alingwen, we would have to fight "
 "our way past them in any case."
@@ -4296,7 +4296,7 @@ msgstr ""
 "utunkban állnak."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:178
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:180
 #, fuzzy
 msgid ""
 "‘Princess Alingwen’…? Hmmm… That name is no’ familiar to me, but I do know "
@@ -4306,12 +4306,12 @@ msgstr ""
 "tünde boszorkány, akinek pont olyan talizmánja van, mint néked."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:182
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:184
 msgid "Really? Sir, do you know where this sorceress lives?"
 msgstr "Valóban? Uram, te tudod, hol találhatjuk meg ezt a boszorkányt?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:186
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:188
 msgid ""
 "I am the Warden o’ the Mountains o’ Dorth. Ah ken everything about this "
 "range, but the tellin’ can wait ’til after the battle."
@@ -4320,13 +4320,13 @@ msgstr ""
 "történik, de a csevej várhat, míg a csata dógát lerendezzük."
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:196
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:198
 #, fuzzy
 msgid "Aaargh…!"
 msgstr "Ááááhhh!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:200
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:202
 #, fuzzy
 msgid ""
 "Merllow the Sage! Oh no, that is a grievous loss! We still needed his help!"
@@ -4335,34 +4335,34 @@ msgstr ""
 "szükségünk volt a segítségére, mint neki a miénkre."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:213
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:215
 #, fuzzy
 msgid "Urgh…! This is not the end… Gulder! … For Gulder…"
 msgstr "Höörrrggg...! Ezzel nincs vége.... Gulder! ... Gulderért..."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:221
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:223
 msgid "What did he say?"
 msgstr "Mit mondott?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:225
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:227
 msgid "I am becoming increasingly sure you were right, Merllow the Sage."
 msgstr "Egyre inkább az az érzésem, hogy igazad volt, Bölcs Merllow."
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:229
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:231
 #, fuzzy
 msgid "Well, I… ahem… thank you …"
 msgstr "Persze, hogy... khmm... köszönöm..."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:255
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:257
 msgid "Well fought, young elf. Now, who be ye?"
 msgstr "Jól harcoltál, tündegyerek! Ki vónál?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:259
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:261
 msgid ""
 "I am Háwclyn, son of Elen-Garil, from Elengavion Castle in the southern "
 "Greenwood."
@@ -4371,12 +4371,12 @@ msgstr ""
 "részéből."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:267
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:269
 msgid "Eh! What?"
 msgstr ""
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:275
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:277
 msgid ""
 "Oho! Elen-Garil’s son an’ Zluld’s daughter, seeking the elven sorceress I "
 "talked about? This is clearly a mission of some importance to your people. "
@@ -4425,17 +4425,17 @@ msgid "Falci-Nyess"
 msgstr "Falci-Nyess"
 
 #. [unit]: id=Rambaltas, type=Dwarvish Runesmith
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:100
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:102
 msgid "Rambaltas"
 msgstr "Rambaltas"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:143
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:145
 msgid "Move Turuk to his new weapon"
 msgstr "Turuk felveszi az új fegyvert"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:214
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:216
 msgid ""
 "Ye unnerstan’, that last battle was merely the latest we’ve had. I think the "
 "orcs are using the port at Prestim. I dinnae see another way fer southern "
@@ -4446,7 +4446,7 @@ msgstr ""
 "ilyen messzire jussanak."
 
 #. [message]: speaker=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:218
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:220
 msgid ""
 "They certainly cannot have passed through Wesnoth itself, now that King "
 "Haldric has put his house in order. But whatever the cause, something "
@@ -4457,7 +4457,7 @@ msgstr ""
 "rendellenes dolog van mögötte. Most mit tegyünk, barátaim?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:222
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:224
 #, fuzzy
 msgid ""
 "I will guide our guests tae the Mistress of Eisheim, the lady Ameck. They "
@@ -4469,22 +4469,22 @@ msgstr ""
 "hogy Eisheim az a hely, ahonnan el kell indulnunk... Shoko még itt van?"
 
 #. [message]: speaker=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:226
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:228
 msgid "Of course! SHOKO!!"
 msgstr "Természetesen! SHOKO!!"
 
 #. [unit]: type=Elvish Shaman, id=Shoko
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:231
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:233
 msgid "Shoko"
 msgstr "Shoko"
 
 #. [message]: speaker=Shoko
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:248
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:250
 msgid "Coming, Lord Falci-Nyess."
 msgstr "Jövök, Lord Falci-Nyess. "
 
 #. [message]: speaker=Shoko
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:253
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:255
 #, fuzzy
 msgid ""
 "Oh! Guests! Greetings… I am Shoko, foster daughter of Turuk. How do you do?"
@@ -4493,7 +4493,7 @@ msgstr ""
 "vagytok?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:257
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:259
 #, fuzzy
 msgid ""
 "Shoko, lass. This is a party fra’ the Greenwood. I have tae tek them tae see "
@@ -4505,7 +4505,7 @@ msgstr ""
 "egy kicsit oldd a hangulatot?"
 
 #. [message]: speaker=Shoko
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:261
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:263
 msgid ""
 "I would love to, father. It will be a pleasure.\n"
 "Oh! If we are going to Eisheim, you should take your new dragon-staff. "
@@ -4519,14 +4519,14 @@ msgstr ""
 
 #. [effect]: type=pierce
 #. [object]: id=dragon_shotgun
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:281
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:404
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:283
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:406
 #, fuzzy
 msgid "dragon shotgun"
 msgstr "sárkánytűzfegyver"
 
 #. [object]: id=dragon_shotgun
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:282
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:284
 msgid ""
 "This weapon, while heavy, holds two charges of dragon-fire. It gives Turuk a "
 "second ranged attack."
@@ -4535,7 +4535,7 @@ msgstr ""
 "sárkánytűzzel. "
 
 #. [object]: id=dragon_shotgun
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:290
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:292
 msgid ""
 "This weapon was made especially for the Warden. No-one but a dwarf could use "
 "it, and no dwarf other than Turuk would presume to use it."
@@ -4545,14 +4545,14 @@ msgstr ""
 "vele. "
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:300
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:302
 msgid ""
 "This is much lighter than I thought it would be. Rumbaltas is a fine "
 "craftsman."
 msgstr "Sokkal könnyebb, mint gondoltam. Rumbaltas nagyszerű munkát végzett."
 
 #. [message]: speaker=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:304
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:306
 #, fuzzy
 msgid ""
 "I will post extra guards until you all return. Take some extra gold with "
@@ -4562,7 +4562,7 @@ msgstr ""
 "És... itt van egy kis csecsebecse is."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:320
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:322
 msgid ""
 "A unit wearing this ring will <i>heal</i> by 4 hitpoints per turn. If "
 "<i>poisoned</i>, it will recover from the poisoning instead."
@@ -4571,17 +4571,17 @@ msgstr ""
 "<i>megmérgeződött</i>, akkor kigyógyul a mérgezésből."
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:326
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:328
 msgid "Move one unit to the item you want it to have."
 msgstr "Vigyél egy egységet a tárgyhoz, hogy felvegye azt!"
 
 #. [object]: id=red_ring
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:345
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:347
 msgid "Ring of Recovery"
 msgstr "Felépülés Gyűrűje"
 
 #. [object]: id=red_ring
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:347
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:349
 msgid ""
 "While wearing the ring of recovery, a unit will heal by 4 hitpoints per "
 "turn. If poisoned, the poison will be removed instead."
@@ -4590,7 +4590,7 @@ msgstr ""
 "megmérgeződött, kigyógyul a mérgezésből."
 
 #. [message]: speaker=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:363
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:365
 msgid ""
 "Take care, all of you, and be wary around Mistress Ameck. She once turned "
 "one of my enforcers to stone, so do not make her angry, no?"
@@ -4599,23 +4599,23 @@ msgstr ""
 "változtatta az egyik hajcsáromat, szóval ne idegesítsétek, rendben?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:370
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:372
 #, fuzzy
 msgid "… In… Indeed."
 msgstr "...Ööö... Vigyázunk."
 
 #. [regenerate]: id=recovery
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:389
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:391
 msgid "recovery"
 msgstr "felépülés"
 
 #. [regenerate]: id=recovery
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:390
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:392
 msgid "female^recovery"
 msgstr "felépülés"
 
 #. [regenerate]: id=recovery
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:391
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:393
 msgid ""
 "Recovery:\n"
 "The unit will heal by 4 hitpoints per turn. If it is poisoned, the poison "
@@ -4655,9 +4655,9 @@ msgstr "Troll harcos"
 #. [side]: type=Troll Warrior, id=Troll Warrior
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:60
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:80
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:171
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:70
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:90
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:174
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:71
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:91
 msgid "Trolls"
 msgstr "Trollok"
 
@@ -4849,27 +4849,27 @@ msgid "Apakura"
 msgstr "Apakura"
 
 #. [side]: type=Foap Hydra, id=Jata
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:112
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:113
 msgid "Jata"
 msgstr "Jata"
 
 #. [side]: type=Naga Myrmidon, id=Milaxilis
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:138
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:140
 msgid "Milaxilis"
 msgstr "Milaxilis"
 
 #. [side]: type=Troll Shaman, id=Rok
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:164
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:167
 msgid "Rok"
 msgstr "Rok"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:215
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:218
 msgid "Move Háwclyn to the exit"
 msgstr "Háwclyn eléri a kijáratot"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:256
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:259
 #, fuzzy
 msgid ""
 "This damp lair is tha’ shortest route tae Eisheim. Unfortunately there are "
@@ -4881,7 +4881,7 @@ msgstr ""
 "tanyát benne. E' kéne kerűjjük őket, ha lehet. "
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:260
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:263
 msgid ""
 "If we must fight, then so be it, but I would be glad to pass through "
 "peacefully. I must say, this place must become a torrent when the rains come."
@@ -4891,7 +4891,7 @@ msgstr ""
 "barlangi patakot."
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:264
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:267
 msgid ""
 "Oh yes, snow-melt collects in this cavern. In spring the sound of the "
 "waterfalls can be heard two leagues away. Last winter, some nagas followed "
@@ -4904,28 +4904,28 @@ msgstr ""
 "bár a trollok egyáltalán nem örültek az új lakóknak."
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:268
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:271
 msgid "We should hurry. We are running out of time to return home."
 msgstr "Igyekeznünk kell! Nem lesz időnk a hazatérésre. "
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:307
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:310
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:921
 msgid "A chest of gold! That’s a stroke o’ fortune!"
 msgstr "Egy arannyal teli láda. Micsoda szerencsés lelet!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:342
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:345
 msgid "Gold! That’s a stroke o’ good luck!"
 msgstr "Arany! Ez aztán a szerencse!"
 
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:362
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:365
 msgid "Crystal Bow"
 msgstr "Kristályíj"
 
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:363
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:366
 msgid ""
 "Crystal Bows are extraordinary magical weapons made long ago by a dwarven "
 "stonecrafter, and given as gifts to the elves of the Silent Forest. The "
@@ -4940,7 +4940,7 @@ msgstr ""
 "pillanatában ez a kis kihagyás is súlyos hátránnyal jár."
 
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:374
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:377
 msgid ""
 "This is a very heavy bow. A powerful archer could use it, but I, alas, "
 "cannot."
@@ -4948,7 +4948,7 @@ msgstr ""
 "Ez egy nagyon súlyos íj. Csak egy profi íjász tudja használni, én sajnos nem."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:385
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:388
 msgid ""
 "Oh, that is a Crystal Bow! Those were a famous gift to the elves, made by my "
 "people many centuries ago! Shoko’s real father had one. He was Captain of "
@@ -4959,7 +4959,7 @@ msgstr ""
 "Felügyelőinek kapitánya. Ó, várjunk csak! Valami van írva az oldalára."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:389
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:392
 #, fuzzy
 msgid ""
 "We are finally able to have a daughter. We have named her Sioclya. Thanks be "
@@ -4970,7 +4970,7 @@ msgstr ""
 "W. i. sz. 212. jan. 11-én. <i>Hirandel kézjegye</i>"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:395
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:398
 msgid ""
 "Anoint mae beard! That bow belonged tae Shoko’s real father! That is "
 "amazing! Shoko’s birth name was Sioclya, but in dwarf-runes that becomes "
@@ -4982,7 +4982,7 @@ msgstr ""
 "nemdebár?"
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:399
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:402
 msgid ""
 "I have always thought of you as my real father, Turuk. I care not if that "
 "sounds foolish."
@@ -4991,18 +4991,18 @@ msgstr ""
 "furán hangzik is."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:403
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:406
 msgid "Bless ye, lass. Bless ye."
 msgstr "Tündéri kislány, te kis tündér."
 
 #. [effect]: type=pierce
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:416
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:431
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:419
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:434
 msgid "crystal bow"
 msgstr "kristályíj"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:464
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:467
 msgid ""
 "The magical rune on the encampment will change a unit’s alignment to "
 "<i>chaotic</i>."
@@ -5011,7 +5011,7 @@ msgstr ""
 "változik."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:469
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:472
 msgid ""
 "A chaos rune! Ye ken, I have heard that trolls are sometimes born as lawful "
 "creatures, fearing the night an’ unafraid tae move by day. Troll shamans use "
@@ -5022,7 +5022,7 @@ msgstr ""
 "mozogni. A troll sámánok egy speciális rítus keretében változtatják meg őket."
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:473
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:476
 msgid ""
 "I have heard that trolls are not actually born. One troll buds off another "
 "smaller troll, which then grows on its own."
@@ -5031,23 +5031,23 @@ msgstr ""
 "kiválik a nagyból, s aztán önállóan nő fel."
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:477
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:480
 msgid "Then, there are no troll women? That’s extraordinary!"
 msgstr "Akkor nincsenek is troll nők? Ez valóban különleges!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:481
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:484
 msgid "I wonder if that magic rune might work on one o’ my followers?"
 msgstr "Kétlem, hogy ez a mágikus rúna hatna itt bármelyikünkre."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:527
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:530
 #, fuzzy
 msgid "Ancestors’ beards, it worked!"
 msgstr "Az ősök szakállára, ez működik!"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:560
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:563
 msgid ""
 "Only innately magical races, such as trolls or drakes, can use these runes."
 msgstr ""
@@ -5055,40 +5055,40 @@ msgstr ""
 "hat a rúna."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:574
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:577
 #, fuzzy
 msgid "Farewell, father… Now I will see Mama again…"
 msgstr "Ég veled, atyám... Megtérek édesanyámhoz..."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:578
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:581
 msgid "Shoko! This parting breaks my heart."
 msgstr "Shoko! Ettől a búcsútól megszakad a szívem. "
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:591
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:594
 msgid "<big>Graaa!</big>"
 msgstr "<big>Grááá!</big>"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:599
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:602
 msgid "Look! There is something behind him."
 msgstr "Nézzétek! Valami van mögötte."
 
 #. [unit]: type=Dwarvish Fighter, id=Cholas
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:609
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:612
 msgid "Cholas"
 msgstr "Cholas"
 
 #. [message]: id=Cholas
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:629
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:632
 #, fuzzy
 msgid "Phew! Thank you, Warden, thank you! I thought I’d ne’er get oot."
 msgstr ""
 "Fúúú! Köszönöm, Felügyelő, köszönöm. Aszittem, nem élem túl ezt a napot. "
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:633
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:636
 #, fuzzy
 msgid ""
 "I didnae think I’d see you again, Cholas. I am proud of you! Follow me and "
@@ -5099,29 +5099,29 @@ msgstr ""
 "visszatérésedet."
 
 #. [message]: id=Cholas
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:640
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:643
 msgid "My pleasure, sir!"
 msgstr "Örömmel, uram!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:663
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:666
 msgid "Northwards! We cannae rest yet, there may be more monsters tae slay!"
 msgstr "Északra! Még nem pihenhetünk, minden szörnyet ki kell irtanunk!"
 
 #. [message]: speaker=unit
 #. [message]: type=Yeti
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:680
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:336
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:683
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:337
 msgid "<big>GRAAA!</big>"
 msgstr "<big>GRÁÁÁ!</big>"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:688
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:691
 msgid "Keep moving, keep moving!"
 msgstr "Haladjunk, ne álljunk meg!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:708
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:711
 msgid "Move on! We cannae tarry here! More monsters may come!"
 msgstr "Tovább! Nem állhatunk meg itt! Még több szörny jöhet!"
 
@@ -5156,18 +5156,18 @@ msgid "Yetis"
 msgstr "Jetik"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:174
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:176
 msgid "We are here. This is the burgh of Eisheim. It is nae a big place."
 msgstr "Megérkeztünk. Az ott Eisheim vára. Nem nagy hely."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:188
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:190
 #, fuzzy
 msgid "My goodness! … An ice monster!"
 msgstr "Istenem, egy jégszörny!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:192
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:194
 msgid ""
 "Aye, lad, yetis. They do come up here sometimes, although they usually stay "
 "south-east o’ the town. We must tread cautiously."
@@ -5176,7 +5176,7 @@ msgstr ""
 "Óvatosan kell haladnunk."
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:196
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:198
 msgid ""
 "Eisheim is home to many Oreads, snow fairies, whom Ameck commands. And "
 "because of the fairies, unicorns gather here too. They are wont to "
@@ -5187,13 +5187,13 @@ msgstr ""
 "látogatókra, még rám is."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:207
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:209
 #, fuzzy
 msgid "… Goodbye… father… Now I will see Mama again…"
 msgstr "...Ég veled...atyám... Én anyámhoz megyek..."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:211
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:213
 #, fuzzy
 msgid ""
 "Noo, Sho…Shoko!! … Beloved foster daughter! How can I go on without you…?"
@@ -5201,12 +5201,12 @@ msgstr ""
 "Neeee, Sho... Shoko!!... Szeretett kislányom! Mit ér az életem nélküled...?"
 
 #. [unit]: id=Ameck, type=Royal Sorceress
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:224
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:226
 msgid "Ameck"
 msgstr "Ameck"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:274
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:276
 msgid ""
 "Hold! All of you! Turuk, you stone-headed old fool! I warned you not to "
 "bring anyone here!"
@@ -5214,17 +5214,17 @@ msgstr ""
 "Megálljatok! Mindenki! Turuk, te fafejű! Mondtam, hogy ne hozz ide senkit!"
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:278
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:280
 msgid "Please, Mistress Ameck! Listen to us! The situation is grave!"
 msgstr "Fenséges Ameck, kérlek! Hallgass meg minket! Súlyos a helyzet!"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:288
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:290
 msgid "Very well. Come over here, please!"
 msgstr "Rendben van. Jöjjetek be!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:313
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:315
 msgid ""
 "Forgive me, ma’am, but our guests ha’ travelled many days tae find ye. And "
 "we ourselves ha’ been troubled by southern orcs coming tae invade us."
@@ -5233,7 +5233,7 @@ msgstr ""
 "S mi magunk is küzdünk némi problémával, a déli orkok támadtak meg minket."
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:317
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:319
 msgid ""
 "I care not one whit what orcs do, nor do I care very much for my former "
 "people. I told you that, did I not? But you, young man, you carry my half-"
@@ -5244,7 +5244,7 @@ msgstr ""
 "a féltestvérem fehérarany talizmánját viseled, az enyém párját. Ki vagy te?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:321
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:323
 #, fuzzy
 msgid ""
 "I am Háwclyn, son of Elen-Garil, from Elengavion Castle in the southern "
@@ -5254,7 +5254,7 @@ msgstr ""
 "részéből. Azért jöttünk, fenség, hogy a segítségedet kérjük."
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:329
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:331
 msgid ""
 "Those are two names that I have not heard for many years. How are they now? "
 "And how is my sister?"
@@ -5263,7 +5263,7 @@ msgstr ""
 "nővérem?"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:333
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:335
 msgid ""
 "Háwclyn and Zylvia told Ameck everything that had happened back in the "
 "Greenwood: the Dorest humans breaching the peace accord; the rising numbers "
@@ -5276,7 +5276,7 @@ msgstr ""
 "Ameck csendesen hallgatott, majd baljós nevetésben tört ki."
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:338
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:340
 msgid ""
 "Ha ha ha! They make me an exile from the forest, fearing my power and "
 "disliking my blood. But as soon as they need me I am graciously permitted to "
@@ -5287,12 +5287,12 @@ msgstr ""
 "hogy visszatérjek. Milyen hízelgő. Ha ha! "
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:342
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:344
 msgid "I told ye she might be hard tae deal with."
 msgstr "Mondtam, hogy nem könnyű szót érteni vele."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:346
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:348
 msgid ""
 "Ameck continued laughing for a while, but then the fey mood began to leave "
 "her."
@@ -5300,7 +5300,7 @@ msgstr ""
 "Ameck nevetett még egy kicsit, aztán a kesernyés hangulata oszlani látszott."
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:351
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:353
 #, fuzzy
 msgid ""
 "(<i>Sigh</i>) But clearly I <i>am</i> needed. It is my duty to return; I "
@@ -5347,17 +5347,17 @@ msgid "Yeti"
 msgstr "Jeti"
 
 #. [side]: type=Great Troll, id=Great Troll
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:68
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:69
 msgid "Tsok"
 msgstr "Tsok"
 
 #. [side]: type=Troll Warrior, id=Troll Warrior
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:89
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:90
 msgid "Strong Äg"
 msgstr "Bivaly Äg"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:188
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:189
 msgid ""
 "This is the shortest route, but we must beware of trolls.\n"
 "Täkel! You stay in Eisheim! You’ll not find any troll maidens to your "
@@ -5368,12 +5368,12 @@ msgstr ""
 "megtört szíved fájdalmát enyhíthetnék."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:198
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:199
 msgid "I find the yetis a bigger worry."
 msgstr "Én inkább a jetik miatt aggódom."
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:202
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:203
 msgid ""
 "They just want to be left alone. As long as we do not disturb them, they "
 "will not harm us."
@@ -5382,7 +5382,7 @@ msgstr ""
 "minket."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:206
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:207
 msgid ""
 "You can now recruit <i>Snow Shamans</i>.\n"
 "Note: Snow Shamans do not heal, although they can advance to unit types that "
@@ -5393,18 +5393,18 @@ msgstr ""
 "van gyógyító is."
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:231
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:232
 msgid "No, that was a yeti village! That will provoke them!"
 msgstr "Ne, az a jetik faluja. Ezt provokációnak veszik!"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:270
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:308
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:271
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:309
 msgid "I warned you not to disturb them."
 msgstr "Figyelmeztettelek, hogy ne ingereld őket."
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:433
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:434
 msgid ""
 "I never thought I would see yetis fighting for us! What fearsome creatures "
 "they are!"
@@ -5413,38 +5413,38 @@ msgstr ""
 "lények!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:449
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:450
 msgid "Aaarr"
 msgstr "Aaarr"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:463
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:464
 msgid "Beware! There is another one in the south. Make haste!"
 msgstr "Vigyázzatok! Még délen is van egy. Igyekezzünk!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:480
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:481
 #, fuzzy
 msgid "Aaargh… ME… beaten?"
 msgstr "Ááááhh... ÉN.... meghalok?"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:494
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:495
 msgid "Beware! There is still another one in the north. We must yet hurry!"
 msgstr "Vigyázzatok! Még északon is van egy. Igyekezzünk!"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:509
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:510
 msgid "I hope the yetis will have some peace now."
 msgstr "Remélem, a jetik most egy ideig nyugalomban élhetnek."
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:515
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:516
 msgid "Whew…"
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:532
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:533
 #, fuzzy
 msgid ""
 "Täkel! I told you to go back to Eisheim! I’ll turn you to stone if you do "
@@ -5454,7 +5454,7 @@ msgstr ""
 "rám."
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:543
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:544
 #, fuzzy
 msgid ""
 "Poor beast, his grief is breaking his mind. He cannot even remember how to "
@@ -5468,12 +5468,12 @@ msgstr ""
 "tehetek érted. Shhh-"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:582
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:583
 msgid "Eh…"
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:586
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:587
 msgid ""
 "Do not worry, son of Elen-Garil. That was a little sorcery. My spell will "
 "fade with the next sunset."
@@ -5482,7 +5482,7 @@ msgstr ""
 "nap se telik bele, és visszanyeri eredeti alakját."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:592
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:593
 msgid "Let us begone."
 msgstr "Menjünk innen!"
 
@@ -5500,30 +5500,30 @@ msgid ""
 msgstr "Turuk csarnokába visszaérve, csatazajra lettek figyelmesek."
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:101
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:105
 msgid "Porspniang"
 msgstr "Porspniang"
 
 #. [side]: type=Southern Warmaster, id=Gyganitonk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:159
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:163
 msgid "Gyganitonk"
 msgstr "Gyganitonk"
 
 #. [side]: type=Orcish Warlord, id=Orongayga
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:192
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:197
 msgid "Orongayga"
 msgstr "Orongayga"
 
 #. [side]: type=Orcish Warlord, id=Orc Warlord
 #. [side]: type=Orcish Warlord, id=Orongayga
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:193
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:280
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:192
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:198
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:284
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:194
 msgid "Local Orcs"
 msgstr "Helyi orkok"
 
 #. [message]: id=Orongayga
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:216
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:222
 #, fuzzy
 msgid ""
 "Gwaha… ha! The southern companies have arrived at last! We have all the "
@@ -5535,12 +5535,12 @@ msgstr ""
 "is felkoncoljuk. Öljétek meg mind!"
 
 #. [message]: id=Gyganitonk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:220
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:226
 msgid "Let the rocks run with blood! Kill everything!"
 msgstr "Vérrel festjük be a sziklákat! Legyilkolunk mindenkit!"
 
 #. [message]: speaker=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:224
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:230
 msgid ""
 "Turuk! A few more hours and you might have been too late. The southern orcs "
 "have found some local allies. I was worried that might happen. But I see you "
@@ -5551,36 +5551,36 @@ msgstr ""
 "sikerült meggyőznöd Ameck Úrnőt, s veled jött. Ez nagyon jó hír."
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:229
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:235
 msgid "Good day to you, Falci-Nyess."
 msgstr "Neked is jó napot, Falci-Nyess."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:233
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:239
 msgid "Aye. But nae more talk; we ha’ a hard battle ahead."
 msgstr "Igen. De a szavak helyett most a fegyverek beszé'nek."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:351
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:357
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1149
 msgid "Aaah…!"
 msgstr ""
 
 #. [unstore_unit]
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:365
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:371
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1163
 msgid "4"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:410
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:416
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1208
 #, fuzzy
 msgid "RooAARRR!!"
 msgstr "RooooAAAAARRRRRR!!!"
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:462
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:468
 msgid ""
 "Hoy, Turuk, remember the battle by the Silent Forest? A lot of orc-heads "
 "flew that day! And we rescued Shoko from that orc encampment!"
@@ -5589,18 +5589,18 @@ msgstr ""
 "lerepült akkor! S akkor szabadítottuk ki Shokót is az orkok fogságából!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:466
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:472
 msgid "Ah! That was a long time ago. Shoko was just a baby back then."
 msgstr "Ah! Régi szép idők. Shoko akkoriban még szinte csecsemő volt."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:481
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:487
 #, fuzzy
 msgid "Ugg…! Turuk, I must… entrust my warriors… to you…"
 msgstr "Ugg...! Turuk megbízlak, hogy viseld gondját a népemnek..."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:485
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:491
 msgid ""
 "Alas! Of course, old friend. Of course.\n"
 "Háwclyn, my lad, ah’m deeply sorry, but my duties will now bind me tae the "
@@ -5609,25 +5609,25 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:499
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:505
 #, fuzzy
 msgid "Aaark… "
 msgstr "Ááááh..."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:530
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:536
 #, fuzzy
 msgid "Aaargh… I lost a mission."
 msgstr "Ááááhh... elbuktam a küldetésemet."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:561
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:567
 #, fuzzy
 msgid "… Gulder… for Gulder… more orcs… always more…"
 msgstr "... Gulder... Gulderért... több ork... egyre több...."
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:599
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:605
 #, fuzzy
 msgid ""
 "This is terrible! Orcs are banding together across a wider area than ever "
@@ -5639,7 +5639,7 @@ msgstr ""
 "perzsekényeket, gyíkokat, embereket..."
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:603
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:609
 msgid ""
 "I thought of asking Ghidsaurs the dragon to defeat them, but he does not "
 "really listen to me. Mistress Ameck, would you be willing to come with me to "
@@ -5650,14 +5650,14 @@ msgstr ""
 "Azt hiszem, te jól ismered őt."
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:607
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:613
 #, fuzzy
 msgid ""
 "I may be able to persuade him… But what of our mission to the Greenwood?"
 msgstr "Talán meg tudnám győzni... De mi a helyzet Greenwooddal?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:611
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:617
 msgid ""
 "We will be able to hold our own, your highness. We sent for reinforcements "
 "from the northern Greenwood. They should have arrived by now. The orcs will "
@@ -5668,12 +5668,12 @@ msgstr ""
 "győznek le bennünket. "
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:615
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:621
 msgid "Brave words, Háwclyn. I pray you are right."
 msgstr "Merész szavak, Háwclyn. Imádkozom, hogy igazad legyen."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:619
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:625
 #, fuzzy
 msgid ""
 "Come, Zylvia! Elves, in their home forest? Even if the orcs and the humans "
@@ -5683,12 +5683,12 @@ msgstr ""
 "együtt indítanának támadást, akkor is megállítanánk őket. "
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:623
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:629
 msgid "But, what if Gulder can bend elves to his will?"
 msgstr "És ha Gulder a tündék akaratát is képes befolyásolni?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:627
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:633
 msgid ""
 "Lass, there’s nae use frettin’. Always fight the foe in front o’ ye, no’ the "
 "one a week fra’ now. Let’s move on!"
@@ -5977,8 +5977,8 @@ msgstr "Mozog a szikla!"
 
 #. [message]: speaker=narrator
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:961
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:604
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:630
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:608
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:634
 msgid "You gain a bonus of 100 gold!"
 msgstr "Kapsz 100 arany jutalmat!"
 
@@ -6225,58 +6225,58 @@ msgstr ""
 "írtunk...  "
 
 #. [unit]: type=Armageddon Drake, id=Gadora
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:44
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:46
 msgid "Gadora Matursk"
 msgstr "Gadora Matursk"
 
 #. [unit]: type=Armageddon Drake, id=Dodora
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:57
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:59
 msgid "Dodora Matursk"
 msgstr "Dodora Matursk"
 
 #. [side]: id=Lord Prestim, type=Orcish Sovereign
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:72
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:74
 msgid "Hogor, Lord of Prestim"
 msgstr "Hogor, Prestim ura"
 
 #. [side]: id=Corac Lokhaba, type=Southern Warmaster
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:256
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:259
 msgid "Corac Lokhaba"
 msgstr "Corac Lokhaba"
 
 #. [side]: type=Orcish Warlord, id=Orc Warlord
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:279
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:283
 msgid "Swordmaster Tark"
 msgstr "Tark kardművész"
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:297
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:302
 msgid "The city of Prestim lies ahead."
 msgstr "Prestim városa itt fekszik előttünk."
 
 #. [message]: id=Merllow
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:301
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:306
 msgid "We will fall on the orcs like a burning wave!"
 msgstr "Úgy zúdulunk az orkokra, mint egy tűzhenger!"
 
 #. [message]: id=Dragon
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:305
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:310
 msgid "<big><b>RooAARRR!!</b></big>"
 msgstr "<big><b>RooAARRR!!</b></big>"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:317
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:322
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:180
 msgid "Death of Falci-Nyess"
 msgstr "Falci-Nyess elesik"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:325
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:330
 msgid "Death of Ghidsaurs"
 msgstr "Ghidsaurs elesik"
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:511
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:516
 #, fuzzy
 msgid ""
 "… More eager orc-killerss! Tcchhtt! Make way! Ssave ssome for uss! Hsss-sss-"
@@ -6286,18 +6286,18 @@ msgstr ""
 "orkot akarunk gyilkolássszni! Hsssz-sssz-sssz! "
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:515
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:520
 msgid "Oh, Xizzyx! Bless you! Your timing is as good as ever!"
 msgstr ""
 "Ó, Xizzyx! Isten hozott a harctéren! Az időzítésed tökéletes, mint mindig!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:611
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:616
 msgid "Oh no, I can’t fall now; you need me still… Tell Turuk –"
 msgstr ""
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:624
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:629
 #, fuzzy
 msgid ""
 "I never thought Ghidsaurs could <i>be</i> defeated! These orcs are stronger "
@@ -6307,30 +6307,30 @@ msgstr ""
 "orkok erősebbek, mint gondoltam! Vissza!"
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:637
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:642
 msgid "Xizzyx! This is a disaster! We have lost a powerful ally! Woe!"
 msgstr ""
 "Xizzyx! Ez szörnyű! Egy hatalmas szövetségest vesztettünk el! Jaj nekünk!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:647
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:652
 msgid "We have spent too much time."
 msgstr "Túl sok időt elpazaroltunk."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:657
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:662
 #, fuzzy
 msgid "Aaarck…! The whole northlands was supposed to be our paradise…"
 msgstr "Aaaarck...! Az egész Északfölde a mi paradicsomunk lehetett volna..."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:667
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:672
 #, fuzzy
 msgid "Aaargh!! … Hu-humans?"
 msgstr "Ááááh...!! Em-emberek??"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:705
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:710
 #, fuzzy
 msgid ""
 "From 237YW onwards, the southern cities of the far north and the port at "
@@ -6392,17 +6392,17 @@ msgid "Silingako"
 msgstr "Silingako"
 
 #. [side]: type=Master Bowman, id=Niallas
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:149
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:150
 msgid "Niallas"
 msgstr "Niallas"
 
 #. [side]: type=Orcish Warlord, id=Orc Warlord
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:191
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:193
 msgid "Grak Redshanks"
 msgstr "Vörösfülű Grak"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:210
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:213
 #, fuzzy
 msgid ""
 "Háwclyn, Zylvia, Alingwen! What a relief to see you! Alas! Reinforcements "
@@ -6416,7 +6416,7 @@ msgstr ""
 "kastélyt, de engem távozásra kért..."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:214
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:217
 msgid ""
 "No reinforcements? That is deeply worrying. What could have happened to our "
 "northern brethren?"
@@ -6425,7 +6425,7 @@ msgstr ""
 "társainkkal?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:218
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:221
 msgid ""
 "Hmph. Troubles o’ their own, I’ll warrant. I wager the local orcs have "
 "fallen on them, an’ they cannae spare troops no matter how much they’d like "
@@ -6436,7 +6436,7 @@ msgstr ""
 "Gulder minden bandát, csoportot és törzset behálózott."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:222
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:225
 msgid ""
 "And my dear father is preparing a last stand in the castle! Oh, Háwclyn! "
 "What can we do?"
@@ -6445,7 +6445,7 @@ msgstr ""
 "csinálhatunk?"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:458
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:461
 #, fuzzy
 msgid "Dear Zylvia… at least I saw you… at… the… end… Proud… of… y–"
 msgstr ""
@@ -6453,19 +6453,19 @@ msgstr ""
 "r-"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:462
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:465
 #, fuzzy
 msgid "Father…! Please, no…!"
 msgstr "Apám...! Kérlek, ne...!"
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:492
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:495
 msgid "Kill the orcs! Kill them all! The southern orcs killed my father!!"
 msgstr ""
 "Öljétek meg az orkokat! Öljétek meg mindet! A déli orkok megölték az apámat!"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:515
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:518
 msgid ""
 "Note: The elves are fully mobilised, and you can recruit <i>Elvish Fighters</"
 "i>, <i>Archers</i> and <i>Shamans</i> onto the castle at Elengavion."
@@ -6474,13 +6474,13 @@ msgstr ""
 "harcost</i>, <i>íjászt</i> és <i>sámánt</i>."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:534
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:537
 #, fuzzy
 msgid "… Ha… ha… ha… this is not the end… Gulder… for Gulder…"
 msgstr "...Ha... ha... ha... ezzel még nincs vége... Gulder... Gulderért..."
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:624
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:627
 #, fuzzy
 msgid ""
 "Poor, brave Lord Zluld. My dear uncle. Zylvia… I am so sorry for your loss, "
@@ -6492,18 +6492,18 @@ msgstr ""
 "tündéje nevében köszöntelek."
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:628
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:631
 #, fuzzy
 msgid "Your majesty. Greetings. Zylvia… My… condolences also."
 msgstr "Fenség. Köszöntelek. Zylvia... Fogadd... részvétemet."
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:633
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:636
 msgid "We should have been back sooner. Zylvia, I am deeply sorry."
 msgstr "Hamarabb kellett volna visszaérnünk. Zylvia, annyira sajnálom."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:637
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:640
 #, fuzzy
 msgid ""
 "He did his duty. He saved our queen… I am so glad that at least I saw him "
@@ -6513,7 +6513,7 @@ msgstr ""
 "utoljára láttam..."
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:647
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:650
 msgid ""
 "Zylvia, take this sword in his honour. It was discovered by Alingwen’s "
 "father, Baldres, after an unicorn took it, but it was originally forged for "
@@ -6526,7 +6526,7 @@ msgstr ""
 "emlékére."
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:656
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:659
 msgid ""
 "Zylvia, take this sword in his honour. It was forged for the royal family of "
 "the Greenwood. I grant it now to you and your heirs. Bear it in his memory."
@@ -6536,12 +6536,12 @@ msgstr ""
 "emlékére."
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:670
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:673
 msgid "Move Zylvia to the sword"
 msgstr "Zylvia felveszi a kardot"
 
 #. [object]: id=greenwood_sword
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:688
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:691
 msgid ""
 "The sword, Greenwood Blade, had been taken for the Royal family of the "
 "Greenwood"
@@ -6570,22 +6570,22 @@ msgstr ""
 "év történéseiről, mióta nem látták egymást."
 
 #. [side]: type=Cavalier, id=Virraent
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:274
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:275
 msgid "Virraent"
 msgstr "Virraent"
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:328
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:331
 msgid "Kologo"
 msgstr "Kologo"
 
 #. [side]: type=Southern Warlord, id=Hamakar Lokhaba
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:371
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:374
 msgid "Hamakar Lokhaba"
 msgstr "Hamakar Lokhaba"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:463
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:467
 #, fuzzy
 msgid ""
 "Now, that armored warrior is Dessen the Elder Chief. We should try not to "
@@ -6600,7 +6600,7 @@ msgstr ""
 "valahol Dessen mögött...   "
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:467
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:471
 msgid ""
 "Yes, I see something there, ma’am. It looks like a dark portal. I am sure "
 "that was not there before."
@@ -6609,7 +6609,7 @@ msgstr ""
 "korábban nem volt ott."
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:471
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:475
 #, fuzzy
 msgid ""
 "There is a dark power flowing out from that doorway. I have little doubt "
@@ -6619,29 +6619,29 @@ msgstr ""
 "ott rejtőzködik mögötte... Az a csarnok a fő célpontunk!"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:479
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:483
 msgid "Move Háwclyn to the basement entrance"
 msgstr "Háwclyn eléri a bázis bejáratát"
 
 #. [message]: id=Virraent
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:532
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:536
 msgid "Ooow!"
 msgstr "Aúúú!"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:541
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:545
 #, fuzzy
 msgid "His horse knows its own mind, at least…"
 msgstr "A lovának megmaradt a saját akarata, legalább neki..."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:559
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:563
 #, fuzzy
 msgid "Aaack! Gulder…"
 msgstr "Áhhh! Gulder..."
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:567
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:571
 msgid ""
 "Oh, no! I told you not to kill him. It was not his fault. All of these "
 "people have been controlled by Gulder, except the orcs. He would have been a "
@@ -6652,26 +6652,26 @@ msgstr ""
 "után kitűnő vezetője lehetett volna Dorest népének. "
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:578
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:582
 #, fuzzy
 msgid "You lost 100 gold!"
 msgstr "Kapsz 100 arany jutalmat!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:589
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:593
 msgid "Aargh! We were supposed to get the whole northlands back!"
 msgstr ""
 "Ááááh! Azt ígérték, hogy egész Északföldét visszafoglaljuk a helyi "
 "szövetségeseinkkel!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:615
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:619
 #, fuzzy
 msgid "Gulder! Gulder! Aiieee…!"
 msgstr "Gulder! Gulder! Jajjjj...!"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:659
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:663
 msgid ""
 "Very well, let us enter quickly. Gulder will probably be waiting for us. The "
 "rest of our soldiers here will be enough to battle with these people who are "
@@ -6679,7 +6679,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:665
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:669
 msgid ""
 "Very well, let us enter quickly. Gulder will probably be waiting for us. The "
 "rest of our soldiers here will be enough to battle with these people and "
@@ -6703,51 +6703,51 @@ msgid "Gulder"
 msgstr "Gulder"
 
 #. [side]: type=Death Knight, id=Death_Knight
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:84
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:85
 msgid "Elexer Nocti"
 msgstr "Elexer Nocti"
 
 #. [side]: type=Draug, id=Draug
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:107
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:109
 msgid "Draug"
 msgstr "Felejtő"
 
 #. [side]: type=Dark Sorcerer, id=Ukyle
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:127
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:130
 msgid "Ukyle"
 msgstr "Ukyle"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:163
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:168
 #, fuzzy
 msgid "What a hellish place! Vampire bats… No doubt there is worse to come."
 msgstr ""
 "Micsoda pokoli hely! Vérszívó denevérek... s ennél csak rosszabb jöhet."
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:167
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:172
 msgid "Gulder is very near. But there will be other horrors to face as well."
 msgstr ""
 "Gulder nagyon közel van. De mindenféle szörnyűséggel is találkozhatunk "
 "őelőtte."
 
 #. [objectives]
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:179
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:184
 msgid "Hint: This is the final battle scenario"
 msgstr ""
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:249
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:254
 msgid "What is that? The wall is moving."
 msgstr "Mi van? Mozog a fal."
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:270
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:275
 msgid "Undead? In Dorest? As well as the orcs??"
 msgstr "Élőholtak? Dorestben? Együtt az orkokkal??"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:274
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:279
 msgid ""
 "Well, it does explain the holy water. No doubt when he summons his thralls "
 "to him, he has them anoint themselves so that the undead will not touch them."
@@ -6756,12 +6756,12 @@ msgstr ""
 "feltámasztott szolgáit, az élőholtakat attól, hogy érintkezzenek vele."
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:290
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:295
 msgid "Someone is there! Is that Gulder?"
 msgstr "Valaki van itt! Ez lenne Gulder?"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:298
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:303
 msgid ""
 "No, I think not. That creature is a weak and paltry thing. It is not the one "
 "we seek."
@@ -6770,7 +6770,7 @@ msgstr ""
 "keressük."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:309
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:314
 #, fuzzy
 msgid ""
 "Are ye sure Gulder is in here, your majesty? It just seems to be a curs’d "
@@ -6780,23 +6780,23 @@ msgstr ""
 "csonttemetőnek látszik...  "
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:313
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:318
 msgid "Yes, Warden, I am entirely certain."
 msgstr "Igen, Felügyelő, teljesen biztos vagyok benne."
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:328
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:333
 #, fuzzy
 msgid "Nothing here that I can see…"
 msgstr "Semmi nincs itt, ha jól látom..."
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:332
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:337
 msgid "No, there is something, Háwclyn!"
 msgstr "De igen, valaminek lennie kell itt, Háwclyn!"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:366
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:371
 #, fuzzy
 msgid ""
 "I know now how Gulder used magic to create this chamber. He has been using "
@@ -6809,12 +6809,12 @@ msgstr ""
 "- belőlük építette fel."
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:541
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:546
 msgid "That is Gulder, there!"
 msgstr "Ott van ő, Gulder!"
 
 #. [message]: id=Gulder
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:549
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:554
 #, fuzzy
 msgid ""
 "Welcome! Welcome! I was planning to kill you after I had brought all the "
@@ -6827,7 +6827,7 @@ msgstr ""
 "engem egy csomó problémától. "
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:553
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:558
 msgid ""
 "We are here to kill you, Gulder. We will send you back into the darkness on "
 "your own."
@@ -6836,7 +6836,7 @@ msgstr ""
 "vissza. "
 
 #. [message]: id=Gulder
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:557
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:562
 msgid ""
 "Hahahaha! Foolish, impudent whelp! I thought the Greenwood elves were as "
 "stupid as trolls, but I overestimated you! I learned the undead arts from "
@@ -6847,14 +6847,14 @@ msgstr ""
 "Jevyantól tanultam az élőholt lét művészetét! Nem tudtok legyőzni!"
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:561
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:566
 msgid ""
 "You’re deluded! The monster Jevyan was destroyed more than two centuries ago!"
 msgstr ""
 "Téged átvertek! Azt a Jevyan nevű szörnyeteget két évszázada elpusztították!"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:565
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:570
 msgid ""
 "Alas, the shades of the most powerful lords of the undead can return to this "
 "world from time to time, with the correct rituals. Once every thirteen "
@@ -6865,7 +6865,7 @@ msgstr ""
 "évben, ha jól tudom."
 
 #. [message]: id=Gulder
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:569
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:574
 msgid ""
 "Oho, your majesty! Not quite as ignorant as your doltish subjects, I see! "
 "Yes, I saw his seventeenth return in this world, and I went back with him to "
@@ -6882,7 +6882,7 @@ msgstr ""
 "erőm!  "
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:573
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:578
 msgid ""
 "Gulder, stop this madness! I am sorry for death of your father, but it was "
 "an accident, and it has nothing to do with the people of Dorest or the elves "
@@ -6892,7 +6892,7 @@ msgstr ""
 "volt, és semmi köze ehhez a doresti embereknek, vagy a greenwoodi tündéknek."
 
 #. [message]: id=Gulder
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:577
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:582
 msgid ""
 "Silence, witch! You killed my father. He was my only family. My mother, "
 "Fioniel, left my father when he agreed with the High Lord to foster you! But "
@@ -6908,7 +6908,7 @@ msgstr ""
 "megszületned!  "
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:581
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:586
 #, fuzzy
 msgid ""
 "Oh, spiteful words! How could you? You, who have suffered the same cruelties "
@@ -6921,7 +6921,7 @@ msgstr ""
 "a szíved?"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:585
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:590
 msgid ""
 "Why are we even talkin’ tae these dried-up old remains?! His heid’s cracked! "
 "His brain’s spoiled! Back intae the pit wi’ him, I say!"
@@ -6931,12 +6931,12 @@ msgstr ""
 "bugyorjába, aszondom!"
 
 #. [message]: id=Gulder
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:635
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:640
 msgid "Hahaha, you think you can kill me?"
 msgstr "Hahaha, azt hittétek, meg tudtok ölni??"
 
 #. [message]: id=Gulder
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:698
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:703
 msgid ""
 "Hah! I will show you a measure of my true power!\n"
 "Dark soldiers! Step forth!"
@@ -6945,7 +6945,7 @@ msgstr ""
 "Sötét erők! Lépjetek elő! "
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:852
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:857
 msgid ""
 "(<i><small>I do not want to be impressed, but I must confess, I am.</small></"
 "i>)"
@@ -6954,18 +6954,18 @@ msgstr ""
 "i>)"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:857
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:862
 msgid "Have Ameck attack Gulder"
 msgstr "Ameck megtámadja Guldert"
 
 #. [objectives]
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:861
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:866
 #, fuzzy
 msgid "This is the final objective."
 msgstr "Nem ez az én sorsom!"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:883
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:888
 #, fuzzy
 msgid ""
 "Gulder! This madness must stop! Your power is great, but I too have mastered "
@@ -6976,25 +6976,25 @@ msgstr ""
 "tudlak győzni! Hagyd abba!"
 
 #. [unstore_unit]
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:902
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:916
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:907
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:921
 msgid "3"
 msgstr ""
 
 #. [message]: id=Gulder
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:924
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:929
 msgid "Hah! That was a feeble strike!"
 msgstr "Hah! Ez egy gyenge csapás volt!"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:928
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:933
 msgid ""
 "How is he still standing?! That would have blown a Great Tree to splinters!"
 msgstr ""
 "Hogyhogy meg se rezzent?! Ez még a Nagy Fát is forgácsokra szedte volna!"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:932
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:937
 #, fuzzy
 msgid ""
 "He truly must wield ten times his father’s power. And even with her "
@@ -7005,7 +7005,7 @@ msgstr ""
 "talizmánnal együtt is csak négyötöde az övének. Nem elég erős. Óh, jaj!"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:936
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:941
 msgid ""
 "Oh! But dear half-sister mine, we have <i>two</i> talismans. Grant me a "
 "boon; give me your talisman. I can better this madman yet!"
@@ -7015,7 +7015,7 @@ msgstr ""
 "őrültön."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:940
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:945
 #, fuzzy
 msgid ""
 "Queen Melindë’s talismans were the pinnacle of the Greenwood’s magical arts. "
@@ -7036,7 +7036,7 @@ msgstr ""
 "élő ember nem élhette túl; a királyi varázslók erről nem beszéltek. "
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:946
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:951
 msgid ""
 "Háwclyn! Give Alingwen my talisman, quickly! I do not want to, but this may "
 "be the only way to defeat that evil mage."
@@ -7045,12 +7045,12 @@ msgstr ""
 "következményét, de csak így semmisíthetjük meg ezt a sátáni mágust."
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:950
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:955
 msgid "Y-yes, ma’am!"
 msgstr "I-igen, fenség!"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:972
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:977
 msgid ""
 "Háwclyn threw the talisman to Ameck as fast as he could, and Ameck fastened "
 "it around her neck. As she did so, she spoke sadly to Gulder:"
@@ -7059,7 +7059,7 @@ msgstr ""
 "elkapta, s nyaka köré tekerte. Ameck hűvös hangon szólt Gulderhez:"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:984
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:989
 msgid ""
 "You said you learned the undead arts from Jevyan, but you are a living man, "
 "flesh and blood. You are the son of Gulcyn, not some undead husk. How would "
@@ -7084,24 +7084,24 @@ msgstr ""
 "<small>Ég veled.</small>"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:991
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:996
 msgid "<i>All of ye, turn away, and cover yer een!</i>"
 msgstr "<i>Mindenki a földre, védjétek a fejeteket!</i>"
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:995
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1000
 msgid "<small>Princess Alingwen!</small>"
 msgstr "<small>Alingwen hercegnő!</small>"
 
 #. [unstore_unit]
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1015
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1030
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1051
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1020
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1035
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1056
 msgid "18"
 msgstr ""
 
 #. [message]: id=Gulder
-#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1038
+#: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:1043
 #, fuzzy
 msgid "What are you– <big>A…a…a…aargh!</big>"
 msgstr "Mi ez a - <big>Á...á ...á ...áááhhh!</big>"
@@ -7171,7 +7171,7 @@ msgstr ""
 
 #. [side]: type=Elvish Lieutenant, id=Hawclyn
 #: Fate_of_a_Princess/scenarios/26_Epilogue.cfg:41
-#: Fate_of_a_Princess/utils/FoaP-side.cfg:31
+#: Fate_of_a_Princess/utils/FoaP-side.cfg:32
 msgid "Háwclyn"
 msgstr "Háwclyn"
 
@@ -7255,12 +7255,14 @@ msgstr "Tényleg? Gondolom ez azt jelenti, hogy van gondja bőven..."
 #. [terrain_type]: id=drake_snow_village_2
 #. [terrain_type]: id=drake_snow_village_3
 #. [terrain_type]: id=drake_snow_village_4
+#. [terrain_type]: id=drake_snow_village_5
 #. [terrain_type]: id=yeti_village
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:7
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:21
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:34
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:47
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:60
+#: Fate_of_a_Princess/terrains/foap-terrain.cfg:73
 msgid "Village"
 msgstr ""
 
@@ -7272,30 +7274,22 @@ msgstr ""
 #. [terrain_type]: id=drake_snow_village_2
 #. [terrain_type]: id=drake_snow_village_3
 #. [terrain_type]: id=drake_snow_village_4
+#. [terrain_type]: id=drake_snow_village_5
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:22
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:35
 #: Fate_of_a_Princess/terrains/foap-terrain.cfg:48
+#: Fate_of_a_Princess/terrains/foap-terrain.cfg:61
 msgid "Snowy Drake Village"
 msgstr ""
 
 #. [terrain_type]: id=yeti_village
-#: Fate_of_a_Princess/terrains/foap-terrain.cfg:61
+#: Fate_of_a_Princess/terrains/foap-terrain.cfg:74
 msgid "Yeti Village"
 msgstr ""
 
 #. [terrain_type]: id=flowers_foap
-#: Fate_of_a_Princess/terrains/foap-terrain.cfg:73
+#: Fate_of_a_Princess/terrains/foap-terrain.cfg:86
 msgid "Mixed Flowers"
-msgstr ""
-
-#. [terrain_type]: id=grass_flowers
-#: Fate_of_a_Princess/terrains/foap-terrain.cfg:83
-msgid "Grassland"
-msgstr ""
-
-#. [terrain_type]: id=grass_flowers
-#: Fate_of_a_Princess/terrains/foap-terrain.cfg:84
-msgid "Grassland Flowers"
 msgstr ""
 
 #. [unit_type]: id=Cannon, race=mechanical
